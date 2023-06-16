@@ -1,9 +1,9 @@
 # site properties and page defaults
 title: JSD
 subtitle: Just Sustainability Design
-description: Just Sustainability Design, JSD for short,  ability and justice.
-header: images/background.jpg
-footer: images/background.jpg 
+description: Striving to design technologies for Just and Sustainable Communities 
+header: images/green.png
+footer: images/insolvent-crop.png 
 
 # site social media and other links
 links:
