@@ -1,9 +1,10 @@
 ---
 ---
 
-# scd-github's Website
+# Just Sustainability Design
 
-An engaging 1-3 sentence description of your lab.
+Designing Technologies for Just and Sustainable Communities.
+"Computing is insolvent: unable to pay its debts to our planet and its societies. JSD reorients tech work so we can build a better future together."
 
 {% include section.html %}
 
