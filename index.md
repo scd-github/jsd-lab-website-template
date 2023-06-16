@@ -1,10 +1,10 @@
 ---
+title: Home
 ---
 
 # Just Sustainability Design
 
-Designing Technologies for Just and Sustainable Communities.
-"Computing is insolvent: unable to pay its debts to our planet and its societies. JSD reorients tech work so we can build a better future together."
+Just Sustainability Design, JSD for short is a framework for systems design practice, research, and pedagogy that privileges sustainability and justice and therefore, the asymmetric and uneven effects of systems design choices at a distance. JSD aims to bring about improvement, not just avoid damage. It is sensitive to the discursive nature of systems design and the dangers presented by misleading narratives that keep systems design practice captive to a false consciousness. Because it centers the concerns of sustainability and justice, JSD must attend to five important factors they raise:  dispersal, uncertainty and ambiguity, fragmentation, power dynamics, and incommensurability.
 
 {% include section.html %}
 
@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Learn More"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -76,6 +76,28 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
+  link="team"
+  title="Our Team"
+  text=text
+%}
+
+{% capture text %}
+
+Insolvent Text
+{%
+  include button.html
+  link="team"
+  text="Insolvent"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/insolvent.png"
   link="team"
   title="Our Team"
   text=text
