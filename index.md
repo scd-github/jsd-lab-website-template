@@ -83,11 +83,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Insolvent Text
+Insolvent Text - Christoph Becker shows how we can reorient design perspectives in computer science to better align with the values of sustainability and justice.
+
 {%
   include button.html
-  link="team"
-  text="Insolvent"
+  link="projects"
+  text="Learn more about Insolvent"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -98,7 +99,11 @@ Insolvent Text
 {%
   include feature.html
   image="images/insolvent.png"
-  link="team"
-  title="Our Team"
+  link="projects"
+  title="Insolvent"
+  flip=true
+  style="bare"
   text=text
 %}
+
+
