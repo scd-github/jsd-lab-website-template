@@ -50,7 +50,7 @@ The overarching theme is to conduct impactful research on designing information 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lamp.jpg"
   link="projects"
   title="Research"
   flip=true
@@ -75,7 +75,7 @@ We **want** things to change things. We **have** to change things. At the lab, w
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team_stock.jpg"
   link="research"
   title="JSD Lab"
   text=text
@@ -98,9 +98,9 @@ Several studies have been undertaken to identify and address the need for just a
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/keyboard.jpg"
   link="projects"
-  title="JSD Publications"
+  title="Publications"
   flip=true
   style="bare"
   text=text
