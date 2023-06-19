@@ -27,9 +27,9 @@ IT has a conflicted relationship with Just Sustainability so how can we design w
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/jsd-venn-diagram.png"
   link="research"
-  title="Introduction"
+  title="Introduction to Just Sustainability Design"
   text=text
 %}
 
@@ -52,7 +52,7 @@ The overarching theme is to conduct impactful research on designing information 
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="JSD Research"
+  title="Research"
   flip=true
   style="bare"
   text=text
