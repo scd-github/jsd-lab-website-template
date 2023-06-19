@@ -64,6 +64,42 @@ We want things to change things. We have to change things. At the lab, we begin 
 
 {%
   include button.html
+  link="research"
+  text="Browse Our Lab"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+  title="JSD Lab"
+  text=text
+%}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{% capture text %}
+
+We want things to change things. We have to change things. At the lab, we begin changing things.
+
+{%
+  include button.html
   link="projects"
   text="Browse Our Lab"
   icon="fa-solid fa-arrow-right"
