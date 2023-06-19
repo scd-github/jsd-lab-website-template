@@ -73,7 +73,7 @@ We want things to change things. We have to change things. At the lab, we begin 
 
 {%
   include feature.html
-  image="images/tam_stock.jpg"
+  image="images/team_stock.jpg"
   link="research"
   title="JSD Lab"
   text=text
