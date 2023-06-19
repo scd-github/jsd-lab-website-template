@@ -27,9 +27,9 @@ IT has a conflicted relationship with Just Sustainability so how can we design w
 
 {%
   include feature.html
-  image="images/insolvent.png"
+  image="images/photo.jpg"
   link="research"
-  title="Introduction to Just Sustainability Design"
+  title="Introduction"
   text=text
 %}
 
@@ -50,7 +50,7 @@ The overarching theme is to conduct impactful research on designing information 
 
 {%
   include feature.html
-  image="images/insolvent.png"
+  image="images/photo.jpg"
   link="projects"
   title="Our Research"
   flip=true
@@ -58,11 +58,13 @@ The overarching theme is to conduct impactful research on designing information 
   text=text
 %}
 
+{% capture text %}
+
 We want things to change things. We have to change things. At the lab, we begin changing things.
 
 {%
   include button.html
-  link="research"
+  link="projects"
   text="Browse Our Lab"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -73,16 +75,17 @@ We want things to change things. We have to change things. At the lab, we begin 
 
 {%
   include feature.html
-  image="images/insolvent.png"
-  link="research"
+  image="images/photo.jpg"
+  link="projects"
   title="JSD Lab"
+  flip=true
+  style="bare"
   text=text
 %}
 
-
 {% capture text %}
 
-**"Insolvent: How to Reorient Computing for Just Sustainability"** by Professor Christoph Becker breaks down how we can reorient design perspectives in computer science to better align with the values of sustainability and justice and why this change is needed in Computing.
+"Insolvent: How to Reorient Computing for Just Sustainability" by Professor Christoph Becker breaks down how we can reorient design perspectives in computer science to better align with the values of sustainability and justice and why this change is needed in Computing.
 
 {%
   include button.html
@@ -102,7 +105,6 @@ We want things to change things. We have to change things. At the lab, we begin 
   title="Insolvent"
   text=text
 %}
-
 
 
 
