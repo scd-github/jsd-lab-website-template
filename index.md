@@ -4,7 +4,7 @@ title: Home
 
 # Just Sustainability Design
 
-Just Sustainability Design, JSD for short is a framework for systems design practice, research, and pedagogy that privileges sustainability and justice and therefore, the asymmetric and uneven effects of systems design choices at a distance. JSD aims to bring about improvement, not just avoid damage. It is sensitive to the discursive nature of systems design and the dangers presented by misleading narratives that keep systems design practice captive to a false consciousness. Because it centers the concerns of sustainability and justice, JSD must attend to five important factors they raise:  dispersal, uncertainty and ambiguity, fragmentation, power dynamics, and incommensurability.
+Just Sustainability Design, JSD for short, is a framework for systems design practice, research, and pedagogy that privileges sustainability and justice and therefore, the asymmetric and uneven effects of systems design choices at a distance. JSD aims to bring about improvement, not just avoid damage. It is sensitive to the discursive nature of systems design and the dangers presented by misleading narratives that keep systems design practice captive to false consciousness. Because it centres on the concerns of sustainability and justice, JSD must attend to five important factors they raise:  **dispersal**, **uncertainty and ambiguity**, **fragmentation**, **power dynamics, and incommensurability**.
 
 {% include section.html %}
 
@@ -12,7 +12,7 @@ Just Sustainability Design, JSD for short is a framework for systems design prac
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+IT has a conflicted relationship with Just Sustainability so how can we design with it in mind? Learn about the origin of Just Sustainable Design (JSD) through Computing by delving into its concepts and critical principles.
 
 {%
   include button.html
@@ -29,18 +29,43 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
+  title="Introduction"
+  text=text
+%}
+
+{% capture text %}
+
+The overarching theme is to conduct impactful research on designing information technology for sustainability and social justice, which converge in just sustainability.
+
+{%
+  include button.html
+  link="projects"
+  text="Learn More"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="projects"
   title="Our Research"
+  flip=true
+  style="bare"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We want things to change things. We have to change things. At the lab, we begin changing things.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse Our Lab"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -52,7 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="JSD Lab"
   flip=true
   style="bare"
   text=text
@@ -60,35 +85,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+"Insolvent: How to Reorient Computing for Just Sustainability" by Professor Christoph Becker breaks down how we can reorient design perspectives in computer science to better align with the values of sustainability and justice and why this change is needed in Computing.
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
-
-{% capture text %}
-
-Insolvent Text - Christoph Becker shows how we can reorient design perspectives in computer science to better align with the values of sustainability and justice.
-
-{%
-  include button.html
-  link="projects"
-  text="Learn more about Insolvent"
+  text="Read More"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -99,11 +101,11 @@ Insolvent Text - Christoph Becker shows how we can reorient design perspectives 
 {%
   include feature.html
   image="images/insolvent.png"
-  link="projects"
+  link="team"
   title="Insolvent"
-  flip=true
-  style="bare"
   text=text
 %}
+
+
 
 
