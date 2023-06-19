@@ -52,7 +52,7 @@ The overarching theme is to conduct impactful research on designing information 
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Research"
+  title="JSD Research"
   flip=true
   style="bare"
   text=text
@@ -60,7 +60,7 @@ The overarching theme is to conduct impactful research on designing information 
 
 {% capture text %}
 
-We want things to change things. We have to change things. At the lab, we begin changing things.
+We **want** things to change things. We **have** to change things. At the lab, we **are** changing things.
 
 {%
   include button.html
@@ -81,27 +81,14 @@ We want things to change things. We have to change things. At the lab, we begin 
   text=text
 %}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 {% capture text %}
 
-We want things to change things. We have to change things. At the lab, we begin changing things.
+Several studies have been undertaken to identify and address the need for just and sustainable computing projects.
 
 {%
   include button.html
   link="projects"
-  text="Browse Our Lab"
+  text="See Our Publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -113,7 +100,7 @@ We want things to change things. We have to change things. At the lab, we begin 
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="JSD Lab"
+  title="JSD Publications"
   flip=true
   style="bare"
   text=text
