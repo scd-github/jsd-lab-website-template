@@ -12,7 +12,7 @@ Just Sustainability Design, JSD for short, is a framework for systems design pra
 
 {% capture text %}
 
-IT has a conflicted relationship with Just Sustainability so how can we design with it in mind? Learn about the origin of Just Sustainable Design (JSD) through Computing by delving into its concepts and critical principles.
+IT has a conflicted relationship with Just Sustainability so how can we design with it in mind? Learn about the origin of Just Sustainable Design (JSD) through Computing by delving into its concepts and critical principles. This is a test.
 
 {%
   include button.html
