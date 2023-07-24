@@ -1,5 +1,5 @@
 ---
-title: JSD Lab
+title: J Lab
 nav:
   order: 3
   tooltip: About the lab
