@@ -2,11 +2,9 @@
 title: Home
 ---
 
-# Just Sustainability Design Lab
+# Featured News
 
-Featured News
-
-Will try to add the carousel 
+Carousel placeholder
 
 {% include section.html %}
 
@@ -106,6 +104,29 @@ Several studies have been undertaken to identify and address the need for just a
   text=text
 %}
 
+
+{% capture text %}
+
+"Insolvent: How to Reorient Computing for Just Sustainability" by Professor Christoph Becker breaks down how we can reorient design perspectives in computer science to better align with the values of sustainability and justice and why this change is needed in Computing.
+
+{%
+  include button.html
+  link="team"
+  text="Read More"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/insolvent.png"
+  link="team"
+  title="Insolvent"
+  text=text
+%}
 
 
 
