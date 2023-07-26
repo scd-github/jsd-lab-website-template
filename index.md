@@ -2,34 +2,38 @@
 title: Home
 ---
 
-# Featured News
+# Just Sustainability Design Lab
 
-Carousel placeholder
+Featured News
+
+Will try to add the carousel 
 
 {% include section.html %}
 
-## What We Do and Why
+## Highlights
 
 {% capture text %}
 
-The overarching theme of our group is to conduct **impactful research on designing information technology for sustainability and social justice, which converge in just sustainability**. The aim is often to enact meaningful change in tech to meet the urgent need for sustainability and social justice. 
-
-We do that through a combination of:
-1. critical examinations of the politics, values, and cognitive processes of design
-2. the development of methods and tools for just sustainability design 
-3. design projects to bring forth just sustainabilities in urban contexts
-
+IT has a conflicted relationship with Just Sustainability so how can we design with it in mind? Learn about the origin of Just Sustainable Design (JSD) through Computing by delving into its concepts and critical principles. This is a test.
 
 {%
   include button.html
   link="research"
-  text="Learn more about Just Sustainability Design"
+  text="Learn More"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
 
 {% endcapture %}
+
+{%
+  include feature.html
+  image="images/jsd-venn-diagram.png"
+  link="research"
+  title="Introduction to Just Sustainability Design"
+  text=text
+%}
 
 {% capture text %}
 
@@ -104,7 +108,6 @@ Several studies have been undertaken to identify and address the need for just a
   text=text
 %}
 
-
 {% capture text %}
 
 "Insolvent: How to Reorient Computing for Just Sustainability" by Professor Christoph Becker breaks down how we can reorient design perspectives in computer science to better align with the values of sustainability and justice and why this change is needed in Computing.
@@ -127,8 +130,6 @@ Several studies have been undertaken to identify and address the need for just a
   title="Insolvent"
   text=text
 %}
-
-
 
 
 
