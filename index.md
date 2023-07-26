@@ -27,7 +27,7 @@ IT has a conflicted relationship with Just Sustainability so how can we design w
 
 {%
   include feature.html
-  image="images/jsd-venn-diagram.png"
+  image=""
   link="research"
   title="Introduction to Just Sustainability Design"
   text=text
