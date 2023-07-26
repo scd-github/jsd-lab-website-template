@@ -2,15 +2,13 @@
 title: Home
 ---
 
-# Just Sustainability Design Lab
-
-Featured News
+# Featured News
 
 Will try to add the carousel 
 
 {% include section.html %}
 
-## Highlights
+## What We Do and Why
 
 {% capture text %}
 
@@ -131,5 +129,6 @@ Several studies have been undertaken to identify and address the need for just a
   text=text
 %}
 
+{% include section.html %}
 
-
+## Vision, Mission and Mandate
