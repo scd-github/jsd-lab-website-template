@@ -1,7 +1,6 @@
 ---
 title: Home
 ---
-# Just Sustainability Design Lab
 
 ## Featured News
 
@@ -25,7 +24,7 @@ We do that through a combination of:
 ## Vision, Mission and Mandate
 
 ```
-<center>VISION</center>
+VISION
 ```
 
 ```
@@ -50,6 +49,7 @@ MANDATE
 {% include section.html %}
 
 ## Recent Projects
+[Curcut](https://toronto.curbcut.ca/)
 <p align="center">
 <img height="200" src="/images/curbcut.png" alt="">
 </p>
