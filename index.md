@@ -2,7 +2,7 @@
 title: Home
 ---
 
-## Featured News
+# Featured News
 
 Will try to add the carousel 
 
@@ -49,9 +49,9 @@ MANDATE
 {% include section.html %}
 
 ## Recent Projects
-[Curcut](https://toronto.curbcut.ca/)
+[Curbcut](https://toronto.curbcut.ca/)
 <p align="center">
-<img height="200" src="/images/curbcut.png" alt="">
+<img height="200" src="images/curbcut.png" alt="">
 </p>
 
 
