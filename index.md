@@ -1,135 +1,55 @@
 ---
 title: Home
 ---
-
 # Just Sustainability Design Lab
 
-Featured News
-
+## Featured News
+---
 Will try to add the carousel 
 
 {% include section.html %}
 
 ## Highlights
+---
 
-{% capture text %}
+The overarching theme of our group is to conduct  **impactful research on designing information technology for sustainability and social justice, which converge in just sustainability**. The aim is often to enact meaningful change in tech to meet the urgent need for sustainability and social justice. 
 
-IT has a conflicted relationship with Just Sustainability so how can we design with it in mind? Learn about the origin of Just Sustainable Design (JSD) through Computing by delving into its concepts and critical principles. This is a test.
+We do that through a combination of:
+1. critical examinations of the politics, values, and cognitive processes of design
+2. the development of methods and tools for just sustainability design 
+3. design projects to bring forth just sustainabilities in urban contexts
 
-{%
-  include button.html
-  link="research"
-  text="Learn More"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+## Purpose
 
-{% endcapture %}
+*The Markdown Guide* is a comprehensive Markdown reference designed for both novices and experts. It was born out of frustration with existing Markdown references that are incomplete, inadequate, or both.
 
-{%
-  include feature.html
-  image="images/jsd-venn-diagram.png"
-  link="research"
-  title="Introduction to Just Sustainability Design"
-  text=text
-%}
+## Contributing
 
-{% capture text %}
+This is an open-source project, and your contributions are welcome. The repository is [hosted on GitHub](https://github.com/mattcone/markdown-guide). See the [README](https://github.com/mattcone/markdown-guide/blob/master/README.md) for instructions and guidelines.
 
-The overarching theme is to conduct impactful research on designing information technology for sustainability and social justice, which converge in just sustainability.
+## Contacting
 
-{%
-  include button.html
-  link="projects"
-  text="Learn More"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+Use the [contact form](/contact) to send a message to the maintainer of *The Markdown Guide*.
 
-{% endcapture %}
+## Acknowledgements
 
-{%
-  include feature.html
-  image="images/lamp.jpg"
-  link="projects"
-  title="Research"
-  flip=true
-  style="bare"
-  text=text
-%}
+*The Markdown Guide* is made possible by the support of several individuals and organizations. Thanks to [all who have contributed](https://github.com/mattcone/markdown-guide/graphs/contributors) to this project.
 
-{% capture text %}
+## License
 
-We **want** things to change things. We **have** to change things. At the lab, we **are** changing things.
+The content of this project itself is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](https://github.com/mattcone/markdown-guide/blob/master/LICENSE.txt).
 
-{%
-  include button.html
-  link="research"
-  text="Browse Our Lab"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+## Affiliate Links
 
-{% endcapture %}
+Some links to products on this website use Amazon affiliate links. If you purchase an item through one of these links, I receive a small percentage of the purchase price (around 4-5%).
 
-{%
-  include feature.html
-  image="images/team_stock.jpg"
-  link="research"
-  title="JSD Lab"
-  text=text
-%}
+Here's the fine print: 
 
-{% capture text %}
+> *The Markdown Guide* is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
-Several studies have been undertaken to identify and address the need for just and sustainable computing projects.
 
-{%
-  include button.html
-  link="projects"
-  text="See Our Publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
 
-{% endcapture %}
 
-{%
-  include feature.html
-  image="images/keyboard.jpg"
-  link="projects"
-  title="Publications"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-"Insolvent: How to Reorient Computing for Just Sustainability" by Professor Christoph Becker breaks down how we can reorient design perspectives in computer science to better align with the values of sustainability and justice and why this change is needed in Computing.
-
-{%
-  include button.html
-  link="team"
-  text="Read More"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/insolvent.png"
-  link="team"
-  title="Insolvent"
-  text=text
-%}
 
 
 
