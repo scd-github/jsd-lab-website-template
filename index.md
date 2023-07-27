@@ -132,3 +132,28 @@ Several studies have been undertaken to identify and address the need for just a
 {% include section.html %}
 
 ## Vision, Mission and Mandate
+
+
+{% include section.html %}
+
+## Research Areas
+
+
+{% include section.html %}
+
+## Recent Projects
+
+
+{% include section.html %}
+
+## Research Funding
+
+
+{% include section.html %}
+
+## Who We Are
+
+
+{% include section.html %}
+
+## Introducing Just Sustainability Design
