@@ -47,7 +47,12 @@ MANDATE
 - [Judgement and Decision-making in System Design]
 - [Just Sustainability Design]
 
+{% include section.html %}
 
+## Recent Projects
+<p align="center">
+<img height="200" src="/images/curbcut.png" alt="">
+</p>
 
 
 
