@@ -1,6 +1,7 @@
 ---
 name: Eshta Bhardwaj
 image: images/Eshta.jpg
+description: PhD Student, Faculty of Information
 role: PhD Student, Faculty of Information
 group: 
 links:
