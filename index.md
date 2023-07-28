@@ -126,6 +126,6 @@ Get it now! or read it here, it’s Open Access.
   include button.html
   type=""
   text="Open Access"
-  link="https://doi.org/10.7551/mitpress/14668.001.0001"
+  link="https://direct.mit.edu/books/oa-monograph/5594/InsolventHow-to-Reorient-Computing-for-Just"
 %}
 
