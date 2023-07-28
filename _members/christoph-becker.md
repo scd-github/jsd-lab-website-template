@@ -1,13 +1,13 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
-role: pi
+name: Christoph Becker
+image: images/Christoph Becker.jpg
+role: Professor
 aliases:
   - J. Smith
   - J Smith
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: [https://janesmith.com](https://www.christoph-becker.info/)
+  orcid: 0000-0002-8364-0593
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
