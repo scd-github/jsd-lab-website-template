@@ -72,3 +72,29 @@ Curbcut is a map-based data exploration and visualization tool designed to trans
 
 # {% include icon.html icon="fa-solid fa-users" %} Introducing Just Sustainability Design
 Computing is insolvent: unable to pay its debts to our planet and its societies. JSD reorients tech work so we can build a better future together.
+
+## What is Just Sustainability Design
+Just Sustainability Design, JSD for short, is a framework for systems design practice, research, and pedagogy that privileges sustainability and justice and therefore, the asymmetric and uneven effects of systems design choices at a distance. JSD aims to bring about improvement, not just avoid damage. 
+
+## Principles of Just Sustainability Design
+
+```sh
+Constructive and Critical
+```
+```sh
+Systemic
+```
+```sh
+Dialetic
+```
+```sh
+Diachronic
+```
+
+{%
+  include button.html
+  type=""
+  text="Learn More"
+  link="https://scd-github.github.io/jsd-lab-website-template/introduction%20to%20JSD/"
+%}
+
