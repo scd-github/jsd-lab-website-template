@@ -8,7 +8,7 @@ Will try to add the carousel
 
 {% include section.html %}
 
-# Just Sustainability Design Lab
+# {% include icon.html icon="fa-solid fa-users" %} Just Sustainability Design Lab
 
 ## What We Do and Why
 
@@ -50,14 +50,26 @@ MANDATE
 ## Recent Projects
 [Curbcut](https://toronto.curbcut.ca/)
 
-# {% include icon.html icon="fa-solid fa-users" %}Who We Are
+## Research Funding
+
+{% capture content %}
+
+{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
+
+## Who We Are
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html %}
 
-# Introducing Just Sustainability Design
+# {% include icon.html icon="fa-solid fa-users" %} Introducing Just Sustainability Design
 
 Just Sustainability Design is a framework for systems design practice, research, and pedagogy that privileges sustainability and justice and therefore, the asymmetric and uneven effects of systems design choices at a distance. JSD aims to bring about improvement, not just avoid damage. 
 
@@ -123,21 +135,12 @@ Just Sustainability Design is a framework for systems design practice, research,
 
 {% include section.html %}
 
-# Insolvent: How to Reorient Computing for Just Sustainability
+# {% include icon.html icon="fa-solid fa-users" %} Insolvent: How to Reorient Computing for Just Sustainability
 
 Professor Becker's book, Insolvent: How to reorient computing for just sustainability appeared at MIT Press in 2023. 
 
-Get it now! Or read it here, it’s Open Access.
+Get it now! Or read through Open Access.
 
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/insolvent.png"
-  caption=""
-%}
-
-{% endcapture %}
 
 {%
   include button.html
