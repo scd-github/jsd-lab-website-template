@@ -1,8 +1,8 @@
 ---
 name: Han Qiao
 image: images/photo.jpg
-description: 
-role: PhD Student
+description: PhD Student, Faculty of Information
+role: PhD Student, Faculty of Information
 links:
   email: 
   twitter: 
