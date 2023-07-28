@@ -121,4 +121,4 @@ Just Sustainability Design is a framework for systems design practice, research,
 
 # Insolvent: How to Reorient Computing for Just Sustainability
 
-{% include list.html data="posts" component="post-excerpt" %}
+> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
