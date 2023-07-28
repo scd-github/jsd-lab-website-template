@@ -129,3 +129,17 @@ Get it now! or read it here, it’s Open Access.
   link="https://direct.mit.edu/books/oa-monograph/5594/InsolventHow-to-Reorient-Computing-for-Just"
 %}
 
+{%
+  include button.html
+  type=""
+  text="Purchase Insolvent"
+  link="https://mitpress.mit.edu/9780262545600/insolvent/"
+%}
+
+{%
+  include button.html
+  type=""
+  text="Learn More About Insolvent"
+  link="https://scd-github.github.io/jsd-lab-website-template/insolvent/"
+%}
+
