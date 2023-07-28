@@ -114,3 +114,11 @@ Just Sustainability Design is a framework for systems design practice, research,
   text="Replicable"
   link="greenelab/lab-website-template"
 %}
+
+[Learn More](https://scd-github.github.io/jsd-lab-website-template/introduction%20to%20JSD/)
+
+{% include section.html %}
+
+# Insolvent: How to Reorient Computing for Just Sustainability
+
+{% include list.html data="posts" component="post-excerpt" %}
