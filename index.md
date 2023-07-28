@@ -6,9 +6,9 @@ title: Home
 
 Will try to add the carousel 
 
-{% include section.html background="images/orange.png" dark=false %}
+{% include section.html background="images/orange.png" dark=true %}
 
-# {% include icon.html icon="fa-solid fa-users" %} <h1 style="text-align: center;">Just Sustainability Design Lab </h1>
+# {% include icon.html icon="fa-solid fa-users" %} Just Sustainability Design Lab
 We want to change things. We have to change things.
 
 {% include section.html %}
@@ -68,3 +68,7 @@ Curbcut is a map-based data exploration and visualization tool designed to trans
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
+ {% include section.html background="images/orange.png" dark=true %} 
+
+# {% include icon.html icon="fa-solid fa-users" %} Introducing Just Sustainability Design
+Computing is insolvent: unable to pay its debts to our planet and its societies. JSD reorients tech work so we can build a better future together.
