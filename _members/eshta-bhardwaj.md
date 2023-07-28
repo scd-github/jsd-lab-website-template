@@ -1,10 +1,10 @@
 ---
-name: John Doe
-image: images/photo.jpg
-role: phd
-group: alum
+name: Eshta Bhardwaj
+image: images/Eshta.jpg
+role: PhD Student
+group: 
 links:
-  github: john-doe
+  github: 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
