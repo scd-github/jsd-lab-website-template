@@ -6,7 +6,7 @@ aliases:
   - J. Smith
   - J Smith
 links:
-  home-page: [https://janesmith.com](https://www.christoph-becker.info/)
+  home-page: https://www.christoph-becker.info/
   orcid: 0000-0002-8364-0593
 ---
 
