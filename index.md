@@ -63,49 +63,49 @@ Just Sustainability Design is a framework for systems design practice, research,
   include button.html
   type=""
   text="Constructive and Critical"
-  link="greenelab/lab-website-template"
+  link=""
 %}
 
 {%
   include button.html
   type=""
   text="Systemic"
-  link="greenelab/lab-website-template"
+  link=""
 %}
 
 {%
   include button.html
   type=""
   text="Dialetic"
-  link="greenelab/lab-website-template"
+  link=""
 %}
 
 {%
   include button.html
   type=""
   text="Diachronic"
-  link="greenelab/lab-website-template"
+  link=""
 %}
 
 {%
   include button.html
   type=""
   text="Contingent"
-  link="greenelab/lab-website-template"
+  link=""
 %}
 
 {%
   include button.html
   type=""
   text="Legitimate"
-  link="greenelab/lab-website-template"
+  link=""
 %}
 
 {%
   include button.html
   type=""
   text="Reasonable"
-  link="greenelab/lab-website-template"
+  link=""
 %}
 
 {%
@@ -115,10 +115,17 @@ Just Sustainability Design is a framework for systems design practice, research,
   link="greenelab/lab-website-template"
 %}
 
-[Learn More](https://scd-github.github.io/jsd-lab-website-template/introduction%20to%20JSD/)
-
 {% include section.html %}
 
 # Insolvent: How to Reorient Computing for Just Sustainability
 
-> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
+Professor Becker's book, Insolvent: How to reorient computing for just sustainability appeared at MIT Press in 2023. 
+Get it now! or read it here, it’s Open Access.
+
+{%
+  include button.html
+  type=""
+  text="Open Access"
+  link="[greenelab/lab-website-template](https://doi.org/10.7551/mitpress/14668.001.0001)https://doi.org/10.7551/mitpress/14668.001.0001"
+%}
+
