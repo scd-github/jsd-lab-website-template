@@ -51,7 +51,7 @@ MANDATE
 [Curbcut](https://toronto.curbcut.ca/)
 Curbcut is a map-based data exploration and visualization tool designed to translate urban sustainability data into actionable knowledge for shaping sustainable cities. Initially developed and launched for Montreal at McGill University, a Toronto version is under development led by the UofT Digital Curation Institute. At its current infancy stage, Curbcut has the potential to support addressing climate and social justice issues. As designers of Curbcut, we recognize the importance of critically examining design approaches of such a tool and its impact on local communities.
 
-[Digital Curation Institute] https://dci.ischool.utoronto.ca/
+[Digital Curation Institute](https://dci.ischool.utoronto.ca/)
 
 ## Research Funding
 
@@ -94,18 +94,6 @@ Dialetic
 ```sh
 Diachronic
 ```
-```sh
-Contingent
-```
-```sh
-Legitimate
-```
-```sh
-Reasonable
-```
-```sh
-Replicable
-```
 
 {%
   include button.html
@@ -114,11 +102,19 @@ Replicable
   link="https://scd-github.github.io/jsd-lab-website-template/introduction%20to%20JSD/"
 %}
 
-[Learn more about Just Sustainability Design](https://scd-github.github.io/jsd-lab-website-template/introduction%20to%20JSD/)
+{% include section.html background="images/orange.png" dark=true %}
+
+"Insolvent hits the nail on the head...Compulsory reading for engineers, designers and everyone interested in thinking about technology"
 
 {% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-users" %} Insolvent: How to Reorient Computing for Just Sustainability
+
+{% capture content %}
+
+{% include figure.html image="images/insolvent.png" %}
+
+{% endcapture %}
 
 Professor Becker's book, Insolvent: How to reorient computing for just sustainability appeared at MIT Press in 2023. 
 
