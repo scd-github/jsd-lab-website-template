@@ -45,9 +45,26 @@ MANDATE
 - [Judgement and Decision-making in System Design]
 - [Just Sustainability Design]
 
-
 ## Recent Projects
 [Curbcut](https://toronto.curbcut.ca/)
 Curbcut is a map-based data exploration and visualization tool designed to translate urban sustainability data into actionable knowledge for shaping sustainable cities. Initially developed and launched for Montreal at McGill University, a Toronto version is under development led by the UofT Digital Curation Institute. At its current infancy stage, Curbcut has the potential to support addressing climate and social justice issues. As designers of Curbcut, we recognize the importance of critically examining design approaches of such a tool and its impact on local communities.
 
 [Digital Curation Institute](https://dci.ischool.utoronto.ca/)
+
+## Research Funding
+
+{% capture content %}
+
+{% include figure.html image="images/uoft-school-of-cities.jpg" %}
+{% include figure.html image="images/NSERC.jpg" %}
+{% include figure.html image="images/photo.jpg" %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
+
+## Who We Are
+
+{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+
