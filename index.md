@@ -47,9 +47,6 @@ MANDATE
 
 ## Recent Projects
 [Curbcut](https://toronto.curbcut.ca/)
-<p align="center">
-<img height="200" src="images/curbcut.png" alt="">
-</p>
 
 # {% include icon.html icon="fa-solid fa-users" %}Who We Are
 
@@ -76,18 +73,44 @@ Just Sustainability Design is a framework for systems design practice, research,
   link="greenelab/lab-website-template"
 %}
 
-```
-Constructive and Critical
-```
+{%
+  include button.html
+  type=""
+  text="Dialetic"
+  link="greenelab/lab-website-template"
+%}
 
-```
-Systemic
-```
+{%
+  include button.html
+  type=""
+  text="Diachronic"
+  link="greenelab/lab-website-template"
+%}
 
-```
-Dialetic
-```
+{%
+  include button.html
+  type=""
+  text="Contingent"
+  link="greenelab/lab-website-template"
+%}
 
-```
-Diachronic
-```
+{%
+  include button.html
+  type=""
+  text="Legitimate"
+  link="greenelab/lab-website-template"
+%}
+
+{%
+  include button.html
+  type=""
+  text="Reasonable"
+  link="greenelab/lab-website-template"
+%}
+
+{%
+  include button.html
+  type=""
+  text="Replicable"
+  link="greenelab/lab-website-template"
+%}
