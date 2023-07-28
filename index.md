@@ -9,7 +9,7 @@ Will try to add the carousel
 {% include section.html background="images/orange.png" dark=false %}
 
 # {% include icon.html icon="fa-solid fa-users" %} Just Sustainability Design Lab 
-## We want to change things. We have to change things.
+We want to change things. We have to change things.
 
 {% include section.html %}
 
@@ -22,3 +22,32 @@ We do that through a combination of:
 2. the development of methods and tools for just sustainability design 
 3. design projects to bring forth just sustainabilities in urban contexts
 
+## Vision, Mission and Mandate
+
+```
+VISION
+```
+
+```
+MISSION
+```
+
+```
+MANDATE
+```
+
+## Research Areas
+
+- [Data Curation and Digital Systems in Urban Planning]
+- [Decision Support for Environmental Sustainability]
+- [Values in Computing]
+- [ICT for Sustainability]
+- [Judgement and Decision-making in System Design]
+- [Just Sustainability Design]
+
+
+## Recent Projects
+[Curbcut](https://toronto.curbcut.ca/)
+Curbcut is a map-based data exploration and visualization tool designed to translate urban sustainability data into actionable knowledge for shaping sustainable cities. Initially developed and launched for Montreal at McGill University, a Toronto version is under development led by the UofT Digital Curation Institute. At its current infancy stage, Curbcut has the potential to support addressing climate and social justice issues. As designers of Curbcut, we recognize the importance of critically examining design approaches of such a tool and its impact on local communities.
+
+[Digital Curation Institute](https://dci.ischool.utoronto.ca/)
