@@ -1,7 +1,7 @@
 ---
 name: Eshta Bhardwaj
 image: images/Eshta.jpg
-role: PhD Student
+role: PhD Student, Faculty of Information
 group: 
 links:
   github: 
