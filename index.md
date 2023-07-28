@@ -54,7 +54,9 @@ MANDATE
 <img height="200" src="images/curbcut.png" alt="">
 </p>
 
+# {% include icon.html icon="fa-solid fa-users" %}Who We Are
 
+{% include grid.html style="square" content=content %}
 
 
 
