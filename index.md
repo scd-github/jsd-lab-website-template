@@ -49,6 +49,9 @@ MANDATE
 
 ## Recent Projects
 [Curbcut](https://toronto.curbcut.ca/)
+Curbcut is a map-based data exploration and visualization tool designed to translate urban sustainability data into actionable knowledge for shaping sustainable cities. Initially developed and launched for Montreal at McGill University, a Toronto version is under development led by the UofT Digital Curation Institute. At its current infancy stage, Curbcut has the potential to support addressing climate and social justice issues. As designers of Curbcut, we recognize the importance of critically examining design approaches of such a tool and its impact on local communities.
+
+[Digital Curation Institute] https://dci.ischool.utoronto.ca/
 
 ## Research Funding
 
@@ -77,60 +80,36 @@ Just Sustainability Design is a framework for systems design practice, research,
 
 ## Principles of Just Sustainability Design
 
-{%
-  include button.html
-  type=""
-  text="Constructive and Critical"
-  link=""
-%}
+```sh
+Constructive and Critical
+```
+```sh
+Systemic
+```
+```sh
+Dialetic
+```
+```sh
+Diachronic
+```
+```sh
+Contingent
+```
+```sh
+Legitimate
+```
+```sh
+Reasonable
+```
+```sh
+Replicable
+```
 
 {%
   include button.html
   type=""
-  text="Systemic"
-  link=""
-%}
-
-{%
-  include button.html
-  type=""
-  text="Dialetic"
-  link=""
-%}
-
-{%
-  include button.html
-  type=""
-  text="Diachronic"
-  link=""
-%}
-
-{%
-  include button.html
-  type=""
-  text="Contingent"
-  link=""
-%}
-
-{%
-  include button.html
-  type=""
-  text="Legitimate"
-  link=""
-%}
-
-{%
-  include button.html
-  type=""
-  text="Reasonable"
-  link=""
-%}
-
-{%
-  include button.html
-  type=""
-  text="Replicable"
-  link="greenelab/lab-website-template"
+  text="Learn More"
+  link="(https://scd-github.github.io/jsd-lab-website-template/introduction%20to%20JSD/)"
 %}
 
 [Learn more about Just Sustainability Design](https://scd-github.github.io/jsd-lab-website-template/introduction%20to%20JSD/)
