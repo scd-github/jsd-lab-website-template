@@ -8,6 +8,8 @@ Will try to add the carousel
 
 {% include section.html %}
 
+# Just Sustainability Design Lab
+
 ## What We Do and Why
 
 The overarching theme of our group is to conduct  **impactful research on designing information technology for sustainability and social justice, which converge in just sustainability**. The aim is often to enact meaningful change in tech to meet the urgent need for sustainability and social justice. 
@@ -17,7 +19,7 @@ We do that through a combination of:
 2. the development of methods and tools for just sustainability design 
 3. design projects to bring forth just sustainabilities in urban contexts
 
-[Learn more about Just Sustainability Design](https://scd-github.github.io/jsd-lab-website-template/introduction%20to%20JSD/)
+
 
 
 ## Vision, Mission and Mandate
@@ -115,12 +117,25 @@ Just Sustainability Design is a framework for systems design practice, research,
   link="greenelab/lab-website-template"
 %}
 
+[Learn more about Just Sustainability Design](https://scd-github.github.io/jsd-lab-website-template/introduction%20to%20JSD/)
+
 {% include section.html %}
 
 # Insolvent: How to Reorient Computing for Just Sustainability
 
 Professor Becker's book, Insolvent: How to reorient computing for just sustainability appeared at MIT Press in 2023. 
-Get it now! or read it here, it’s Open Access.
+
+Get it now! Or read it here, it’s Open Access.
+
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/insolvent.png"
+  caption=""
+%}
+
+{% endcapture %}
 
 {%
   include button.html
