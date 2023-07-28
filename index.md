@@ -8,7 +8,7 @@ Will try to add the carousel
 
 {% include section.html background="images/orange.png" dark=false %}
 
-# {% include icon.html icon="fa-solid fa-users" %} Just Sustainability Design Lab 
+# {% include icon.html icon="fa-solid fa-users" %} <h1 style="text-align: center;">Just Sustainability Design Lab </h1>
 We want to change things. We have to change things.
 
 {% include section.html %}
