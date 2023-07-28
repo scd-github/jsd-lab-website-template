@@ -12,7 +12,7 @@ Will try to add the carousel
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-users" %} Just Sustainability Design Lab
+# {% include icon.html icon="fa-solid fa-users" %} Just Sustainability Design Lab 
 
 ## What We Do and Why
 
