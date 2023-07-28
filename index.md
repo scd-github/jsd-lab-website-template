@@ -111,7 +111,7 @@ Replicable
   include button.html
   type=""
   text="Learn More"
-  link="(https://scd-github.github.io/jsd-lab-website-template/introduction%20to%20JSD/)"
+  link="https://scd-github.github.io/jsd-lab-website-template/introduction%20to%20JSD/"
 %}
 
 [Learn more about Just Sustainability Design](https://scd-github.github.io/jsd-lab-website-template/introduction%20to%20JSD/)
