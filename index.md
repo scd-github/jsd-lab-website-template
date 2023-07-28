@@ -54,8 +54,8 @@ MANDATE
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/uoft-school-of-cities.jpg" %}
+{% include figure.html image="images/NSERC.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
@@ -67,7 +67,9 @@ MANDATE
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html %}
+{% include section.html background="images/insolvent-crop.png" dark=true %}
+
+"Computing is insolvent: unable to pay its debts to our planet and its societies. JSD reorients tech work so we can build a better future together."
 
 # {% include icon.html icon="fa-solid fa-users" %} Introducing Just Sustainability Design
 
