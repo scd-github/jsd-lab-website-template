@@ -6,6 +6,10 @@ title: Home
 
 Will try to add the carousel 
 
+{% include section.html background="images/insolvent-crop.png" dark=true %}
+
+# We want to change things. We have to change things.
+
 {% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-users" %} Just Sustainability Design Lab
@@ -72,7 +76,7 @@ Curbcut is a map-based data exploration and visualization tool designed to trans
 
 {% include section.html background="images/insolvent-crop.png" dark=true %}
 
-"Computing is insolvent: unable to pay its debts to our planet and its societies. JSD reorients tech work so we can build a better future together."
+# Computing is insolvent: unable to pay its debts to our planet and its societies. JSD reorients tech work so we can build a better future together.
 
 {% include section.html %}
 
@@ -104,17 +108,12 @@ Diachronic
 
 {% include section.html background="images/orange.png" dark=true %}
 
-"Insolvent hits the nail on the head...Compulsory reading for engineers, designers and everyone interested in thinking about technology"
+# "Insolvent hits the nail on the head...Compulsory reading for engineers, designers and everyone interested in thinking about technology"
 
 {% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-users" %} Insolvent: How to Reorient Computing for Just Sustainability
 
-{% capture content %}
-
-{% include figure.html image="images/insolvent.png" %}
-
-{% endcapture %}
 
 Professor Becker's book, Insolvent: How to reorient computing for just sustainability appeared at MIT Press in 2023. 
 
