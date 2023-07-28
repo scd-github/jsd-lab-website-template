@@ -62,15 +62,8 @@ Just Sustainability Design is a framework for systems design practice, research,
 
 ## Principles of Just Sustainability Design
 
-
-
-<div class="alert alert-info">
-  <i class="fas fa-info-circle"></i> <strong>Note:</strong> I used Jekyll to create the <i>Markdown Guide</i>. You can view the source code on <a href="https://github.com/mattcone/markdown-guide">GitHub</a>.
-</div>
-
-
 {%
   include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
+  type="Critical"
+  link=""
 %}
