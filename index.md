@@ -6,9 +6,9 @@ title: Home
 
 Will try to add the carousel 
 
-{% include section.html background="images/insolvent-crop.png" dark=true %}
+{% include section.html background="images/orange.png" dark=false %}
 
-# We want to change things. We have to change things.
+## We want to change things. We have to change things.
 
 {% include section.html %}
 
@@ -22,7 +22,6 @@ We do that through a combination of:
 1. critical examinations of the politics, values, and cognitive processes of design
 2. the development of methods and tools for just sustainability design 
 3. design projects to bring forth just sustainabilities in urban contexts
-
 
 
 
@@ -74,9 +73,9 @@ Curbcut is a map-based data exploration and visualization tool designed to trans
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/insolvent-crop.png" dark=true %}
+{% include section.html background="images/orange.png" dark=false %}
 
-# Computing is insolvent: unable to pay its debts to our planet and its societies. JSD reorients tech work so we can build a better future together.
+## Computing is insolvent: unable to pay its debts to our planet and its societies. JSD reorients tech work so we can build a better future together.
 
 {% include section.html %}
 
@@ -106,9 +105,9 @@ Diachronic
   link="https://scd-github.github.io/jsd-lab-website-template/introduction%20to%20JSD/"
 %}
 
-{% include section.html background="images/orange.png" dark=true %}
+{% include section.html background="images/orange.png" dark=false %}
 
-# "Insolvent hits the nail on the head...Compulsory reading for engineers, designers and everyone interested in thinking about technology"
+## "Insolvent hits the nail on the head...Compulsory reading for engineers, designers and everyone interested in thinking about technology"
 
 {% include section.html %}
 
