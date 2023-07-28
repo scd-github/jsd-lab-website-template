@@ -64,6 +64,7 @@ Just Sustainability Design is a framework for systems design practice, research,
 
 {%
   include button.html
-  type="Critical"
-  link=""
+  type="github"
+  text="Critical"
+  link="greenelab/lab-website-template"
 %}
