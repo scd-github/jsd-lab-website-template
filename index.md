@@ -19,7 +19,6 @@ We do that through a combination of:
 
 [Learn more about Just Sustainability Design](https://scd-github.github.io/jsd-lab-website-template/introduction%20to%20JSD/)
 
-{% include section.html %}
 
 ## Vision, Mission and Mandate
 
@@ -35,7 +34,6 @@ MISSION
 MANDATE
 ```
 
-{% include section.html %}
 
 ## Research Areas
 
@@ -46,7 +44,6 @@ MANDATE
 - [Judgement and Decision-making in System Design]
 - [Just Sustainability Design]
 
-{% include section.html %}
 
 ## Recent Projects
 [Curbcut](https://toronto.curbcut.ca/)
@@ -56,9 +53,9 @@ MANDATE
 
 # {% include icon.html icon="fa-solid fa-users" %}Who We Are
 
-{% include grid.html style="square" content=content %}
 
+{% include section.html %}
 
-
+# Introducing Just Sustainability Design
 
 
