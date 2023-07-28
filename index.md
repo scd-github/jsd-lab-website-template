@@ -126,6 +126,6 @@ Get it now! or read it here, it’s Open Access.
   include button.html
   type=""
   text="Open Access"
-  link="[greenelab/lab-website-template](https://doi.org/10.7551/mitpress/14668.001.0001)https://doi.org/10.7551/mitpress/14668.001.0001"
+  link="https://doi.org/10.7551/mitpress/14668.001.0001"
 %}
 
