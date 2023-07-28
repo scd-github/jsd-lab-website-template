@@ -1,6 +1,7 @@
 ---
 name: Christoph Becker
 image: images/Christoph Becker.jpg
+description: Professor
 role: Professor
 aliases:
   - J. Smith
