@@ -9,7 +9,7 @@ Will try to add the carousel
 {% include section.html background="images/green.png" dark=true %}
 
 # {% include icon.html icon="fa-solid fa-users"%} Just Sustainability Design Lab
-### We want to change things. We have to change things.
+### *We want to change things. We have to change things.*
 
 {% include section.html %}
 
@@ -67,7 +67,7 @@ Curbcut is a map-based data exploration and visualization tool designed to trans
 
 {% include figure.html image="images/uoft-school-of-cities.jpg" style="small" caption="School of Cities" %}
 {% include figure.html image="images/NSERC.jpg" style="small" caption="NSERC" %}
-{% include figure.html image="images/ontario.jpg" style="small" caption="Ontario Research Fund" %}
+{% include figure.html image="images/ontario.png" style="small" caption="Ontario Research Fund" %}
 
 {% endcapture %}
 
@@ -81,7 +81,7 @@ Curbcut is a map-based data exploration and visualization tool designed to trans
 {% include section.html background="images/green.png" dark=true %}
 
 # {% include icon.html icon="fa-solid fa-microscope" %} Introducing Just Sustainability Design
-### Computing is insolvent: unable to pay its debts to our planet and its societies. JSD reorients tech work so we can build a better future together.
+### *Computing is insolvent: unable to pay its debts to our planet and its societies. JSD reorients tech work so we can build a better future together.*
 
 {% include section.html %}
 
@@ -113,7 +113,7 @@ Diachronic
 {% include section.html background="images/green.png" dark=true %}
  
 # {% include icon.html icon="fa-solid fa-feather-pointed" %} Insolvent: How to Reorient Computing for Just Sustainability
-### "Insolvent hits the nail on the head...Compulsory reading for engineers, designers and everyone interested in thinking about technology"
+### *"Insolvent hits the nail on the head...Compulsory reading for engineers, designers and everyone interested in thinking about technology"*
 
 {% include section.html %}
 
