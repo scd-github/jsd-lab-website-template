@@ -8,7 +8,7 @@ Will try to add the carousel
 
 {% include section.html background="images/orange.png" dark=true %}
 
-# {% include icon.html icon="fa-solid fa-users" style="text-align: center" %} Just Sustainability Design Lab
+<center> # {% include icon.html icon="fa-solid fa-users"%} Just Sustainability Design Lab
 We want to change things. We have to change things.
 
 {% include section.html %}
@@ -68,7 +68,7 @@ Curbcut is a map-based data exploration and visualization tool designed to trans
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
- {% include section.html background="images/orange.png" dark=true %} 
+{% include section.html background="images/orange.png" dark=true %} 
 
 # {% include icon.html icon="fa-solid fa-users" %} Introducing Just Sustainability Design
 Computing is insolvent: unable to pay its debts to our planet and its societies. JSD reorients tech work so we can build a better future together.
@@ -100,10 +100,34 @@ Diachronic
   link="https://scd-github.github.io/jsd-lab-website-template/introduction%20to%20JSD/"
 %}
 
-# {% include icon.html icon="fa-solid fa-users" style="text-align: center" %} Insolvent: How to Reorient Computing for Just Sustainability
+{% include section.html background="images/orange.png" dark=true %} 
+ 
+# {% include icon.html icon="fa-solid fa-users" %} Insolvent: How to Reorient Computing for Just Sustainability
 "Insolvent hits the nail on the head...Compulsory reading for engineers, designers and everyone interested in thinking about technology"
 
 Professor Becker's book, Insolvent: How to reorient computing for just sustainability appeared at MIT Press in 2023. 
 
-<center>Get it now! Or read through Open Access.<\center>
+<center>Get it now! Or read through Open Access.
+
+{%
+  include button.html
+  type=""
+  text="Open Access"
+  link="https://direct.mit.edu/books/oa-monograph/5594/InsolventHow-to-Reorient-Computing-for-Just"
+%}
+
+{%
+  include button.html
+  type=""
+  text="Purchase Insolvent"
+  link="https://mitpress.mit.edu/9780262545600/insolvent/"
+%}
+
+{%
+  include button.html
+  type=""
+  text="Learn More About Insolvent"
+  link="https://scd-github.github.io/jsd-lab-website-template/insolvent/"
+%}
+
 
