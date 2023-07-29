@@ -56,18 +56,15 @@ consectetur adipiscing elit
 - [Just Sustainability Design]
 
 ## Recent Projects
-[Curbcut](https://toronto.curbcut.ca/)
-Curbcut is a map-based data exploration and visualization tool designed to translate urban sustainability data into actionable knowledge for shaping sustainable cities. Initially developed and launched for Montreal at McGill University, a Toronto version is under development led by the UofT Digital Curation Institute. At its current infancy stage, Curbcut has the potential to support addressing climate and social justice issues. As designers of Curbcut, we recognize the importance of critically examining design approaches of such a tool and its impact on local communities.
-
-[Digital Curation Institute](https://dci.ischool.utoronto.ca/)
+{% include list.html component="card" data="projects" filters="group: " style="small" %}
 
 ## Research Funding
 
 {% capture content %}
 
-{% include figure.html image="images/uoft-school-of-cities.jpg" caption="School of Cities" width="400px" %}
-{% include figure.html image="images/NSERC.jpg" caption="NSERC" width="400px" %}
-{% include figure.html image="images/ontario.png" caption="Ontario Research Fund" width="400px" %}
+{% include figure.html image="images/uoft-school-of-cities.jpg" caption="School of Cities" width="40px" %}
+{% include figure.html image="images/NSERC.jpg" caption="NSERC" width="40px" %}
+{% include figure.html image="images/ontario.png" caption="Ontario Research Fund" width="40px" %}
 
 {% endcapture %}
 
