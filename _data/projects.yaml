@@ -1,6 +1,5 @@
 - title: Curbcut
   subtitle: A platform for urban sustainability
-  group: featured
   image: images/toronto.png
   link: https://toronto.curbcut.ca/
   description: A map-based data exploration and visualization tool designed to translate urban sustainability data into actionable knowledge for shaping sustainable cities. 
@@ -8,32 +7,22 @@
   tags:
     - sustainability
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: Sidewalk and Toronto
+  subtitle: Critical systems heuristics and the smart city
+  image: images/toronto.png
+  link: https://arxiv.org/abs/1906.02266
+  description: A paper which uses Critical Systems Heuristics (CSH) to examine the design of Sidewalk Toronto, an ongoing smart city development.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: Temporal Discounting in Software Engineering
+  subtitle: A replication study
+  image: images/time.jpg
+  link: https://arxiv.org/abs/1901.07024
+  description:  Technical Debt research largely develops prescriptive approaches for how software engineers should make such decisions. Few have studied how they actually make them.
   repo: greenelab/lab-website-template
   tags:
-    - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
 
