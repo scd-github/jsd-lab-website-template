@@ -22,8 +22,6 @@ We do that through a combination of:
 2. the development of methods and tools for just sustainability design 
 3. design projects to bring forth just sustainabilities in urban contexts
 
-## Vision, Mission and Mandate
-
 {% include section.html background="images/green.png" dark=true %}
 
 {% capture col1 %}
