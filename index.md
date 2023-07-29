@@ -80,7 +80,7 @@ Curbcut is a map-based data exploration and visualization tool designed to trans
 
 {% include section.html background="images/orange.png" dark=true %} 
 
-# {% include icon.html icon="fa-solid fa-users" %} Introducing Just Sustainability Design
+# {% include icon.html icon="fa-solid fa-microscope" %} Introducing Just Sustainability Design
 Computing is insolvent: unable to pay its debts to our planet and its societies. JSD reorients tech work so we can build a better future together.
 
 {% include section.html %}
@@ -112,7 +112,7 @@ Diachronic
 
 {% include section.html background="images/orange.png" dark=true %} 
  
-# {% include icon.html icon="fa-solid fa-users" %} Insolvent: How to Reorient Computing for Just Sustainability
+# {% include icon.html icon="fa-solid fa-feather-pointed" %} Insolvent: How to Reorient Computing for Just Sustainability
 "Insolvent hits the nail on the head...Compulsory reading for engineers, designers and everyone interested in thinking about technology"
 
 {% include section.html %}
