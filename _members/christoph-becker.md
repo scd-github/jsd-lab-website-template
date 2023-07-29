@@ -1,20 +1,19 @@
 ---
 name: Christoph Becker
 image: images/Christoph Becker.jpg
-description: Professor
+description: Professor, Faculty of Information
 role: Professor
 aliases:
-  - J. Smith
-  - J Smith
+  - 
 links:
   home-page: https://www.christoph-becker.info/
   orcid: 0000-0002-8364-0593
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Christoph Becker is a Professor of Information and Director of the Digital Curation Institute at the University of Toronto. 
+His research focuses on the design of just and sustainable 
+information and software systems, judgment and decision-making in systems design, 
+social responsibility in computing, and digital curation.
+
+Becker is one of the co-founders of the Karlskrona Manifesto for Sustainability Design and 
+is the author of the book Insolvent: How to Reorient Computing for Just Sustainability.
