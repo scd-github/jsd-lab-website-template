@@ -4,8 +4,7 @@ title: Home
 
 # Featured News
 
-Will try to add the carousel 
-{% include carousel.html %}
+Carousel TBD 
 
 {% include section.html background="images/green.png" dark=true %}
 
@@ -58,6 +57,8 @@ consectetur adipiscing elit
 
 ## Recent Projects
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
+
+![plain image](/images/ontario.png)
 
 ## Research Funding
 
