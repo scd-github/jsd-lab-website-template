@@ -9,7 +9,7 @@ Will try to add the carousel
 {% include section.html background="images/green.png" dark=true %}
 
 # {% include icon.html icon="fa-solid fa-users"%} Just Sustainability Design Lab
-### *We want to change things. We have to change things.*
+### *We **want** to change things. We **have** to change things.*
 
 {% include section.html %}
 
@@ -65,9 +65,9 @@ Curbcut is a map-based data exploration and visualization tool designed to trans
 
 {% capture content %}
 
-{% include figure.html image="images/uoft-school-of-cities.jpg" style="small" caption="School of Cities" %}
-{% include figure.html image="images/NSERC.jpg" style="small" caption="NSERC" %}
-{% include figure.html image="images/ontario.png" style="small" caption="Ontario Research Fund" %}
+{% include figure.html image="images/uoft-school-of-cities.jpg" caption="School of Cities" width="400px" %}
+{% include figure.html image="images/NSERC.jpg" caption="NSERC" width="400px" %}
+{% include figure.html image="images/ontario.png" caption="Ontario Research Fund" width="400px" %}
 
 {% endcapture %}
 
