@@ -6,6 +6,8 @@
   repo: 
   tags:
     - sustainability
+    - platform
+    - cities
 
 - title: Sidewalk and Toronto
   subtitle: Critical systems heuristics and the smart city
@@ -15,14 +17,18 @@
   repo: 
   tags:
     - resource
+    - sustainability
+    - CSH
 
 - title: Temporal Discounting in Software Engineering
   subtitle: A replication study
-  image: images/time.jpg
+  image: images/toronto.png
   link: https://arxiv.org/abs/1901.07024
   description:  Technical Debt research largely develops prescriptive approaches for how software engineers should make such decisions. Few have studied how they actually make them.
   repo: 
   tags:
     - publication
+    - software engineering
+    - temporal discounting
 
 
