@@ -5,6 +5,7 @@ title: Home
 # Featured News
 
 Will try to add the carousel 
+{% include carousel.html %}
 
 {% include section.html background="images/green.png" dark=true %}
 
