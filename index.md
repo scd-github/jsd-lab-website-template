@@ -8,7 +8,7 @@ Will try to add the carousel
 
 {% include section.html background="images/orange.png" dark=true %}
 
-<center> # {% include icon.html icon="fa-solid fa-users"%} Just Sustainability Design Lab
+# {% include icon.html icon="fa-solid fa-users"%} Just Sustainability Design Lab
 We want to change things. We have to change things.
 
 {% include section.html %}
@@ -107,7 +107,7 @@ Diachronic
 
 Professor Becker's book, Insolvent: How to reorient computing for just sustainability appeared at MIT Press in 2023. 
 
-<center>Get it now! Or read through Open Access.
+Get it now! Or read through Open Access.
 
 {%
   include button.html
