@@ -58,8 +58,6 @@ consectetur adipiscing elit
 ## Recent Projects
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
 
-![plain image](/images/ontario.png)
-
 ## Research Funding
 
 {% capture content %}
@@ -70,7 +68,7 @@ consectetur adipiscing elit
 
 {% endcapture %}
 
-{% include grid.html style="square" content=content %}
+{% include grid.html style="square" content=content  width="200px" %}
 
 ## Who We Are
 
