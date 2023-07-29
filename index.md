@@ -105,6 +105,8 @@ Diachronic
 # {% include icon.html icon="fa-solid fa-users" %} Insolvent: How to Reorient Computing for Just Sustainability
 "Insolvent hits the nail on the head...Compulsory reading for engineers, designers and everyone interested in thinking about technology"
 
+{% include section.html %}
+
 Professor Becker's book, Insolvent: How to reorient computing for just sustainability appeared at MIT Press in 2023. 
 
 Get it now! Or read through Open Access.
