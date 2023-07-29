@@ -62,9 +62,9 @@ consectetur adipiscing elit
 
 {% capture content %}
 
-{% include figure.html image="images/uoft-school-of-cities.jpg" caption="School of Cities" width="100%" %}
-{% include figure.html image="images/NSERC.jpg" caption="NSERC" width="100%" %}
-{% include figure.html image="images/ontario.png" caption="Ontario Research Fund" width="100%" %}
+{% include figure.html image="images/uoft-school-of-cities.jpg" caption="School of Cities" width="80%" %}
+{% include figure.html image="images/NSERC.jpg" caption="NSERC" width="80%" %}
+{% include figure.html image="images/ontario.png" caption="Ontario Research Fund" width="80%" %}
 
 {% endcapture %}
 
