@@ -3,7 +3,7 @@
   image: images/toronto.png
   link: https://toronto.curbcut.ca/
   description: A map-based data exploration and visualization tool designed to translate urban sustainability data into actionable knowledge for shaping sustainable cities. 
-  repo: greenelab/lab-website-template
+  repo: 
   tags:
     - sustainability
 
@@ -12,7 +12,7 @@
   image: images/toronto.png
   link: https://arxiv.org/abs/1906.02266
   description: A paper which uses Critical Systems Heuristics (CSH) to examine the design of Sidewalk Toronto, a previously planned smart city development.
-  repo: greenelab/lab-website-template
+  repo: 
   tags:
     - resource
 
@@ -21,7 +21,7 @@
   image: images/time.jpg
   link: https://arxiv.org/abs/1901.07024
   description:  Technical Debt research largely develops prescriptive approaches for how software engineers should make such decisions. Few have studied how they actually make them.
-  repo: greenelab/lab-website-template
+  repo: 
   tags:
     - publication
 
