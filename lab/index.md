@@ -5,11 +5,10 @@ nav:
   tooltip: About the lab
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Who We Are
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+ We are faculty members and students at the Faculty of Information(iSchool) at the University of Toronto.  The aim is that each project 
+ we engage in has the *potential* to make a difference in shifting our world on a more sustainable and just course, and some actually do. 
 
 {% include section.html %}
 
@@ -18,18 +17,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+If this sounds intriguing, we invite you to please send your CV, writing samples, and a brief statement of research interest to [Prof. Christoph Becker](christoph.becker@utoronto.ca).
 
-{% include section.html %}
 
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
