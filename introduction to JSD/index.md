@@ -5,7 +5,7 @@ nav:
   tooltip: To learn more about JSD
 ---
 
-# Introduction to Just Sustainability Design
+# {% include icon.html icon="fa-solid fa-microscope" %} Introduction to Just Sustainability Design
 
 **Just Sustainability Design** is a framework for systems design practice, research, and pedagogy that privileges sustainability and justice and therefore, the asymmetric and uneven effects of systems design choices at a distance. JSD aims to bring about improvement, not just avoid damage. It is sensitive to the discursive nature of systems design and the dangers presented by misleading narratives that keep systems design practice captive to false consciousness. Because it centres the concerns of sustainability and justice, JSD must attend to five important factors they raise: dispersal, uncertainty and ambiguity, fragmentation, power dynamics, and incommensurability.
 
