@@ -15,6 +15,8 @@ nav:
 - **Power dynamics** across direct and indirect stakeholders with unevenly distributed influence over decisions in systems design
 - **Incommensurability** across different views of the design pace it aims to address and offer a pluralist perspective
 
+{% include section.html %}
+
 ## Principles of JSD
 
 >#### Constructive and Critical
