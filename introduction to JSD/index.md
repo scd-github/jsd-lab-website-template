@@ -5,10 +5,11 @@ nav:
   tooltip: To learn more about JSD
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Introducing Just Sustainability Design
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+````
+Computing is insolvent: unable to pay its debts to our planet and its societies. JSD reorients tech work so we can build a better future together.
+````
 
 {% include tags.html tags="publication, resource, website" %}
 
@@ -25,3 +26,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 ## More
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
+
+<div class="alert alert-info">
+  <i class="fas fa-info-circle"></i> <strong>Note:</strong> To create code blocks without indenting lines, use <a href="/extended-syntax/#fenced-code-blocks">fenced code blocks</a>.
+</div>
