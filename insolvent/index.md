@@ -7,6 +7,7 @@ nav:
 {% include section.html dark=true %}
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Insolvent: How to Reorient Computing for Just Sustainability
 
+{% include section.html %}
 {% capture col1 %}
 
 {%
