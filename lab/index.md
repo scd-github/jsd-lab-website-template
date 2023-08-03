@@ -7,6 +7,7 @@ nav:
 {% include section.html dark=true %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Who We Are
+{% include section.html %}
 
  We are faculty members and students of the Faculty of Information at the University of Toronto.  The aim of our lab is that each project we engage in has the *potential* to 
  make a difference in shifting our world on a more sustainable and just course, and **some actually do.** 
