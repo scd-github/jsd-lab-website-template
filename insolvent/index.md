@@ -5,7 +5,7 @@ nav:
   tooltip: All things about Insolvent
 ---
 {% include section.html dark=true %}
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Insolvent
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}Insolvent: How to Reorient Computing for Just Sustainability
 
 {% include section.html %}
 > ## How we can enact meaningful change in computing to meet the urgent need for sustainability and justice.
