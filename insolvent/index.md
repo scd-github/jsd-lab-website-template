@@ -43,8 +43,6 @@ Becker positions the role of information technology and computing in environment
 {% include section.html %}
 ## Endorsements
 
-{% include section.html %}
-
 {% capture col1 %}
 
 {%
