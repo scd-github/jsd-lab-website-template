@@ -3,6 +3,7 @@
 
 - id: doi:10.1145/3579462
   type: paper
+  image: fa-solid fa-scroll
   tags:
     - sustainability
     - ACM
