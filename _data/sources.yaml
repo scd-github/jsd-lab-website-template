@@ -2,10 +2,9 @@
   type: paper
 
 - id: doi:10.1145/3579462
-  type: paper
-  image: fa-solid fa-scroll
+  type: journal
   tags:
-    - sustainability
+    - Sustainability
     - ACM
 
 - id: doi:10.21428/bf6fb269.541455de
