@@ -15,6 +15,7 @@ nav:
 {%
   include figure.html
   image="images/insolvent.png"
+  width="50%"
 %}
 
 {% endcapture %}
