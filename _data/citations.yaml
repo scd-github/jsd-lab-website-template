@@ -25,6 +25,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  image: fa-solid fa-scroll
   tags:
   - sustainability
   - ACM
