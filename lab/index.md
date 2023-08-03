@@ -4,6 +4,7 @@ nav:
   order: 1
   tooltip: About the lab
 ---
+{% include section.html dark=true %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Who We Are
 
