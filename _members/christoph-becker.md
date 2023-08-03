@@ -1,6 +1,6 @@
 ---
 name: Christoph Becker
-image: images/Christoph Becker.jpg
+image: images/Christoph Becker_copyright.png
 description: Professor, Faculty of Information
 role: Professor
 aliases:
