@@ -1,5 +1,5 @@
 ---
-title: Introduction to JSD
+title: Introduction to JSD 
 nav:
   order: 3
   tooltip: To learn more about JSD
