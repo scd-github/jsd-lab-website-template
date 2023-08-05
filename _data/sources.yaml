@@ -3,12 +3,10 @@
 
 - id: doi:10.1145/3579462
   type: journal
-  tags:
-    - Sustainability
-    - ACM
 
 - id: doi:10.21428/bf6fb269.541455de
   date: '2023-06-14'
+  image: images/limits 2023.png
 
 - id: doi:10.1016/j.ecoinf.2022.101918
   type: paper
