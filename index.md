@@ -68,7 +68,7 @@ consectetur adipiscing elit
   include figure.html
   image="images/uoft-school-of-cities.jpg"
   caption="School of Cities"
-  height="110px"
+  height="105px"
 %}
 
 {% endcapture %}
@@ -79,7 +79,7 @@ consectetur adipiscing elit
   include figure.html
   image="images/ontario.png"
   caption="Ontario Research Fund"
-  height="110px"
+  height="105px"
 
 %}
 
@@ -91,7 +91,7 @@ consectetur adipiscing elit
   include figure.html
   image="images/NSERC.jpg"
   caption="NSERC"
-  height="110px"
+  height="105px"
 %}
 
 {% endcapture %}
