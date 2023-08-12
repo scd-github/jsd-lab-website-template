@@ -68,6 +68,7 @@ consectetur adipiscing elit
   include figure.html
   image="images/uoft-school-of-cities.jpg"
   caption="School of Cities"
+  height="120px"
 %}
 
 {% endcapture %}
@@ -78,7 +79,7 @@ consectetur adipiscing elit
   include figure.html
   image="images/NSERC.jpg"
   caption="NSERC"
-  height="100px"
+  height="120px"
 %}
 
 {% endcapture %}
@@ -89,6 +90,7 @@ consectetur adipiscing elit
   include figure.html
   image="images/ontario.png"
   caption="Ontario Research Fund"
+  height="120px"
 %}
 
 {% endcapture %}
@@ -96,10 +98,14 @@ consectetur adipiscing elit
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 ## Who We Are
-
+### Current Members
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
+### Alumni
+- Dawn Walker (PhD '22)
+- Curtis McCord (PhD '22)
+  
 {% include section.html background="images/green.png" dark=true %}
 
 # {% include icon.html icon="fa-solid fa-microscope" %} Introducing Just Sustainability Design
