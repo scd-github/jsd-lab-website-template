@@ -78,7 +78,7 @@ consectetur adipiscing elit
   include figure.html
   image="images/NSERC.jpg"
   caption="NSERC"
-  height="20px"
+  height="100px"
 %}
 
 {% endcapture %}
