@@ -62,18 +62,6 @@ consectetur adipiscing elit
 
 ## Research Funding
 
-{% capture content %}
-
-{% include figure.html image="images/uoft-school-of-cities.jpg" caption="School of Cities" width="80%" %}
-{% include figure.html image="images/NSERC.jpg" caption="NSERC" width="80%" %}
-{% include figure.html image="images/ontario.png" caption="Ontario Research Fund" width="80%" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content  width="200px" %}
-
-{% include section.html %}
-
 {% capture col1 %}
 
 {%
@@ -88,13 +76,23 @@ consectetur adipiscing elit
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/NSERC.jpg"
+  caption="NSERC"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/ontario.jpg"
+  caption="Ontario Research Fund"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 ## Who We Are
 
