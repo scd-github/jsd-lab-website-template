@@ -2,16 +2,15 @@
 title: Home
 carousels:
   - images: 
-    - image: images/NSERC.jpg
-    - image: images/curbcut.jpg
-    - image: images/green.jpg
+    - image: images/curbcut.png
+    - image: images/green.png
+    - image: images/insolvent.png
 ---
 
 # Featured News
 
-{% include carousel.html height="30" unit="%" duration="7" number="1" %}
+{% include carousel.html height="40" unit="%" duration="7" number="1" %}
 
-Carousel TBD 
 
 {% include section.html background="images/green.png" dark=true %}
 
