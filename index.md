@@ -4,6 +4,10 @@ title: Home
 
 # Featured News
 
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+{% include carousel.html height="50" unit="%" duration="7" number="2" %}
+
 Carousel TBD 
 
 {% include section.html background="images/green.png" dark=true %}
