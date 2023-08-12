@@ -12,7 +12,8 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="limits 2023" style="rich" %}
+{% include citation.html lookup="Pathways to urban sustainability: Design perspectives on a data curation
+    and visualization platform" style="rich" %}
 
 {% include section.html %}
 
