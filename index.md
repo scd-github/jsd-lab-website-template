@@ -1,5 +1,10 @@
 ---
 title: Home
+carousels:
+  - images: 
+    - image: images/NSERC.jpg
+    - image: images/curbcut.jpg
+    - image: images/green.jpg
 ---
 
 # Featured News
