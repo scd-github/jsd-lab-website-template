@@ -2,7 +2,7 @@
 title: Home
 carousels:
   - images: 
-    - image: images/curbcut.png
+    - image: images/orange.png
     - image: images/green.png
     - image: images/insolvent.png
 ---
