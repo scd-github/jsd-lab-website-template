@@ -72,6 +72,30 @@ consectetur adipiscing elit
 
 {% include grid.html style="square" content=content  width="200px" %}
 
+{% include section.html %}
+
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/uoft-school-of-cities.jpg"
+  caption="School of Cities"
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Lorem ipsum"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
+
 ## Who We Are
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
