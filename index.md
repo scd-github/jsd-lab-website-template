@@ -86,7 +86,7 @@ consectetur adipiscing elit
 
 {%
   include figure.html
-  image="images/ontario.jpg"
+  image="images/ontario.png"
   caption="Ontario Research Fund"
 %}
 
