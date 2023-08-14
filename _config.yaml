@@ -7,12 +7,10 @@ footer: images/green.png
 
 # site social media and other links
 links:
-  email: contact@scd-github.com
+  email: christoph.becker@utoronto.ca
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: scd-github
-  twitter: scd-github
-  youtube: scd-github
+  github: JustSustainabilityDesign
 
 ### jekyll settings
 
