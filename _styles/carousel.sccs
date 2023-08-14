@@ -747,7 +747,7 @@
   <div class="button-wrapper">
     <a
       class="button"
-      href="mailto:contact@scd-github.com"
+      href="mailto:christoph.becker@utoronto.ca"
       
         data-tooltip="Email"
       
@@ -819,7 +819,7 @@
   <div class="button-wrapper">
     <a
       class="button"
-      href="https://github.com/scd-github"
+      href="https://github.com/JustSustainabilityDesign"
       
         data-tooltip="GitHub"
       
@@ -828,54 +828,6 @@
       aria-label="GitHub"
     >
       <i class="icon fa-brands fa-github"></i>
-      
-    </a>
-  </div>
-
-
-    
-      
-      
-      
-
-
-
-  <div class="button-wrapper">
-    <a
-      class="button"
-      href="https://twitter.com/scd-github"
-      
-        data-tooltip="Twitter"
-      
-      data-style="bare"
-      
-      aria-label="Twitter"
-    >
-      <i class="icon fa-brands fa-twitter"></i>
-      
-    </a>
-  </div>
-
-
-    
-      
-      
-      
-
-
-
-  <div class="button-wrapper">
-    <a
-      class="button"
-      href="https://youtube.com/scd-github"
-      
-        data-tooltip="YouTube"
-      
-      data-style="bare"
-      
-      aria-label="YouTube"
-    >
-      <i class="icon fa-brands fa-youtube"></i>
       
     </a>
   </div>
