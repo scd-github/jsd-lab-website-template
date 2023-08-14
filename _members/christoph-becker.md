@@ -1,13 +1,14 @@
 ---
 name: Christoph Becker
 image: images/Christoph Becker_copyright.png
-description: Professor, Faculty of Information
+description: Professor, Faculty of Information and School of the Environment
 role: Professor
 aliases:
   - 
 links:
   home-page: https://www.christoph-becker.info/
   orcid: 0000-0002-8364-0593
+  discover: https://discover.research.utoronto.ca/21004-christoph-becker
 ---
 
 Christoph Becker is a Professor of Information and Director of the Digital Curation Institute at the University of Toronto. 
