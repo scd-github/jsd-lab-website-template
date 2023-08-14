@@ -19,7 +19,26 @@ nav:
 {% endcapture %}
 {% include cols.html col1=col1 %}
 
-{% include button.html type="" text="Purchase" link="https://mitpress.mit.edu/9780262545600/insolvent/" %}
+{%
+  include button.html
+  type=""
+  text="Read for free"
+  link="https://direct.mit.edu/books/oa-monograph/5594/InsolventHow-to-Reorient-Computing-for-Just"
+%}
+
+{%
+  include button.html
+  type=""
+  text="Get your copy"
+  link="https://mitpress.mit.edu/9780262545600/insolvent/"
+%}
+
+{%
+  include button.html
+  type=""
+  text="Borrow from Toronto Public Library"
+  link=""
+%}
 
 > ## How we can enact meaningful change in computing to meet the urgent need for sustainability and justice.
 
