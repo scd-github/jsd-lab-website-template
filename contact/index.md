@@ -16,12 +16,7 @@ please reach out as we would love to collaborate.
   text="christoph.becker@utoronto.ca"
   link="christoph.becker@utoronto.ca"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
