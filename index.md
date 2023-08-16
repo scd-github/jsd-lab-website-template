@@ -4,8 +4,7 @@ carousels:
   - images: 
     - image: images/orange.png
     - image: images/green.png
-    - image: images/insolvent.png 
-      link:  "https://mitpress.mit.edu/9780262545600/insolvent/"
+    - image: [images/insolvent.png]("https://mitpress.mit.edu/9780262545600/insolvent/")
 ---
 
 {% include carousel.html height="40" unit="%" duration="7" number="1" %}
