@@ -124,7 +124,7 @@ mastodon:
   icon: images/mastodon.jpg
   text: Mastodon
   tooltip: Mastodon
-  link: https://hci.social/@
+  link: https://hci.social/@$VALUE
 
 # alerts
 
