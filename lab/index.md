@@ -18,7 +18,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html background="images/insolvent-crop.png" dark=true %}
-Prospective Students
+# Prospective Students
 
 {% include section.html %}
 > ## Incoming or Existing PhD Students
@@ -31,4 +31,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% include section.html dark=true %}
 
 If this sounds intriguing, we invite you to get in touch with [Prof. Christoph Becker](christoph.becker@utoronto.ca).
+{:.center}
 
