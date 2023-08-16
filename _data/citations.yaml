@@ -84,6 +84,7 @@
   date: '2023-06-01'
   link: https://doi.org/gsjxws
   type: paper
+  image: images/chocolates_judgment.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ecoinf.2022.101918
