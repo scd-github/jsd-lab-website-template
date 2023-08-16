@@ -9,6 +9,7 @@ nav:
 
 Want to learn how to design with justice and sustainability in mind, 
 please reach out as we would love to collaborate.
+{:.center}
 
 {%
   include button.html
