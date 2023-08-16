@@ -17,8 +17,18 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
+{% include section.html background="images/insolvent-crop.png" dark=true %}
+Prospective Students
+
+{% include section.html %}
+> ## Incoming or Existing PhD Students
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+{% include section.html %}
+> ## Incoming or Existing Masters Students
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
 {% include section.html dark=true %}
 
-If this sounds intriguing, we invite you to please send your CV, writing samples, and a brief statement of research interest to [Prof. Christoph Becker](christoph.becker@utoronto.ca).
-
+If this sounds intriguing, we invite you to get in touch with [Prof. Christoph Becker](christoph.becker@utoronto.ca).
 
