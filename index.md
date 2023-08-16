@@ -79,7 +79,7 @@ consectetur adipiscing elit
 
 {%
   include figure.html
-  image="images/ontario.png"
+  image="images/ontario research fund.jpg"
   caption="Ontario Research Fund"
   height="105px"
 
@@ -98,7 +98,18 @@ consectetur adipiscing elit
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% capture col4 %}
+
+{%
+  include figure.html
+  image="images/innovation-ca-canada-foundation-for-innovation-cfi-logo-vector.png"
+  caption="Canada Foundation for Innovation"
+  height="105px"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 %}
 
 ## Who We Are
 ### Current Members
