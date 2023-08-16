@@ -156,14 +156,14 @@ Get it now! Or read through Open Access.
 {%
   include button.html
   type=""
-  text="Open Access"
+  text="Read For Free"
   link="https://direct.mit.edu/books/oa-monograph/5594/InsolventHow-to-Reorient-Computing-for-Just"
 %}
 
 {%
   include button.html
   type=""
-  text="Purchase Insolvent"
+  text="Get Your Copy"
   link="https://mitpress.mit.edu/9780262545600/insolvent/"
 %}
 
