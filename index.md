@@ -115,6 +115,7 @@ consectetur adipiscing elit
   text="More About Joining the Lab"
   link="https://scd-github.github.io/jsd-lab-website-template/lab/"
 %}
+{:.center}
   
 {% include section.html background="images/green.png" dark=true %}
 
