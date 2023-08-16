@@ -120,13 +120,13 @@ consectetur adipiscing elit
 - Curtis McCord (PhD '22)
 - Dawn Walker (PhD '22)
 
+## 
 {%
   include button.html
   type=""
   text="Joining the Lab"
   link="https://scd-github.github.io/jsd-lab-website-template/lab/"
 %}
-{:.center}
   
 {% include section.html background="images/green.png" dark=true %}
 
@@ -169,7 +169,7 @@ Diachronic
 
 Professor Becker's book, Insolvent: How to reorient computing for just sustainability appeared at MIT Press in 2023. 
 
-Get it now! Or read through Open Access.
+Get it now! Or read for free through Open Access.
 
 {%
   include button.html
