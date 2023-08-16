@@ -121,7 +121,7 @@ linkedin:
   link: https://www.linkedin.com/in/$VALUE
 
 mastodon:
-  icon: images/mastodon.jpg
+  icon: fa-brands fa-mastodon
   text: Mastodon
   tooltip: Mastodon
   link: https://hci.social/@$VALUE
