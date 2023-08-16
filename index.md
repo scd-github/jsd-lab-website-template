@@ -108,6 +108,13 @@ consectetur adipiscing elit
 ### Alumni
 - Curtis McCord (PhD '22)
 - Dawn Walker (PhD '22)
+
+{%
+  include button.html
+  type=""
+  text="More About Joining the Lab"
+  link="https://scd-github.github.io/jsd-lab-website-template/lab/"
+%}
   
 {% include section.html background="images/green.png" dark=true %}
 
