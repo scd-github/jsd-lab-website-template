@@ -851,7 +851,7 @@
       
       aria-label="Mastodon"
     >
-      <i class="icon images/mastodon.jpg"></i>
+      <i class="icon fa-brands fa-mastodon"></i>
       
     </a>
   </div>
