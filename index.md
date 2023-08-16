@@ -112,7 +112,7 @@ consectetur adipiscing elit
 {%
   include button.html
   type=""
-  text="More About Joining the Lab"
+  text="Joining the Lab"
   link="https://scd-github.github.io/jsd-lab-website-template/lab/"
 %}
 {:.center}
