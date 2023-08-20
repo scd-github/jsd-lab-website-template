@@ -7,7 +7,7 @@ carousels:
     - image: images/insolvent.png
 ---
 
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+{% include carousel.html height="30" unit="%" duration="7" number="1" %}
 
 
 {% include section.html background="images/green.png" dark=true %}
