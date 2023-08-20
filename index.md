@@ -3,6 +3,7 @@ title: Home
 carousels:
   - images: 
     - image: images/curbcut.png
+      url: "https://toronto.curbcut.ca/"
     - image: images/green.png
     - image: images/insolvent.png
 ---
