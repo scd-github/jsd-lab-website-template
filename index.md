@@ -1,11 +1,13 @@
 ---
 title: Home
 carousels:
-  - images: 
+  - images:
+    - image: images/limits 2023.png
+      url: "https://limits.pubpub.org/pub/iw8v1y2m/release/1"
     - image: images/curbcut.png
       url: "https://toronto.curbcut.ca/"
-    - image: images/green.png
     - image: images/insolvent.png
+      url: insolvent
 ---
 
 {% include carousel.html height="40" unit="%" duration="7" number="1" %}
