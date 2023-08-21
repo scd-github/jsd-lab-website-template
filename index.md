@@ -123,6 +123,9 @@ JSD was introduced in Professor Becker's book, Insolvent: How to reorient comput
 {% capture col2 %}
 
 [##]: #
+{% comment %}
+A comment in Liquid
+{% endcomment %}
 
 {%
   include button.html
