@@ -109,35 +109,6 @@ We do that through a combination of:
 ## What is Just Sustainability Design
 Just Sustainability Design, JSD for short, is a framework for systems design practice, research, and pedagogy that privileges sustainability and justice and therefore, the asymmetric and uneven effects of systems design choices at a distance. JSD aims to bring about improvement, not just avoid damage. 
 
-## Principles of Just Sustainability Design
-
-```sh
-Constructive and Critical
-```
-```sh
-Systemic
-```
-```sh
-Dialetic
-```
-```sh
-Diachronic
-```
-
-{%
-  include button.html
-  type=""
-  text="Learn More"
-  link="https://scd-github.github.io/jsd-lab-website-template/introduction%20to%20JSD/"
-%}
-
-{% include section.html background="images/green.png" dark=true %}
- 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %} Insolvent: How to Reorient Computing for Just Sustainability
-### *"Insolvent hits the nail on the head...Compulsory reading for engineers, designers and everyone interested in thinking about technology"*
-
-{% include section.html %}
-
 Professor Becker's book, Insolvent: How to reorient computing for just sustainability appeared at MIT Press in 2023. 
 
 Get it now! Or read for free through Open Access.
