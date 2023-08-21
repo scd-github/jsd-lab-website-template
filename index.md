@@ -104,15 +104,6 @@ JSD was introduced in Professor Becker's book, Insolvent: How to reorient comput
 
 {% include cols.html col1=col1 col2=col2 %}
 
-| :        Fruits \|\| Food       : |||
-| :--------- | :-------- | :--------  |
-| Apple      | : Apple : | Apple      \
-| Banana     |   Banana  | Banana     \
-| Orange     |   Orange  | Orange     |
-| :   Rowspan is 4    : || How's it?  |
-|^^    A. Peach         ||   1. Fine :|
-|^^    B. Orange        ||^^ 2. Bad   |
-|^^    C. Banana        ||  It's OK!  |
 
 ## Research Funding
 
