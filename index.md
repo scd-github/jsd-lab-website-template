@@ -56,54 +56,7 @@ We do that through a combination of:
   link="https://scd-github.github.io/jsd-lab-website-template/lab/"
 %}
 
-## Research Funding
 
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/uoft-school-of-cities.jpg"
-  caption="School of Cities"
-  height="105px"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/ontario research fund.jpg"
-  caption="Ontario Research Fund"
-  height="105px"
-
-%}
-
-{% endcapture %}
-
-{% capture col3 %}
-
-{%
-  include figure.html
-  image="images/NSERC.jpg"
-  caption="NSERC"
-  height="105px"
-%}
-
-{% endcapture %}
-
-{% capture col4 %}
-
-{%
-  include figure.html
-  image="images/innovation-ca-canada-foundation-for-innovation-cfi-logo-vector.png"
-  caption="Canada Foundation for Innovation"
-  height="105px"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 %}
  
 {% include section.html background="images/green.png" dark=true %}
 
@@ -167,6 +120,55 @@ Get it now! Or read for free through Open Access.
   type=""
   text="Learn More About Insolvent"
   link="https://scd-github.github.io/jsd-lab-website-template/insolvent/"
+
+## Research Funding
+
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/uoft-school-of-cities.jpg"
+  caption="School of Cities"
+  height="105px"
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/ontario research fund.jpg"
+  caption="Ontario Research Fund"
+  height="105px"
+
+%}
+
+{% endcapture %}
+
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/NSERC.jpg"
+  caption="NSERC"
+  height="105px"
+%}
+
+{% endcapture %}
+
+{% capture col4 %}
+
+{%
+  include figure.html
+  image="images/innovation-ca-canada-foundation-for-innovation-cfi-logo-vector.png"
+  caption="Canada Foundation for Innovation"
+  height="105px"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 %}
 %}
 
 
