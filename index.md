@@ -103,7 +103,7 @@ JSD was introduced in Professor Becker's book, Insolvent: How to reorient comput
 
 {% include cols.html col1=col1 col2=col2 %}
 
-## Research Funding
+# Research Funding
 
 {% capture col1 %}
 
