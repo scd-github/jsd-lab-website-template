@@ -111,7 +111,6 @@ Just Sustainability Design, JSD for short, is a framework for systems design pra
 
 JSD was introduced in Professor Becker's book, Insolvent: How to reorient computing for just sustainability appeared at MIT Press in 2023. If you want to learn more about Just Sustainability Design, see the resources below.
 
-## yhh
 
 {% capture col1 %}
 
@@ -133,14 +132,7 @@ JSD was introduced in Professor Becker's book, Insolvent: How to reorient comput
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
-
-{%
-  include button.html
-  type=""
-  text="Read Insolvent For Free"
-  link="https://direct.mit.edu/books/oa-monograph/5594/InsolventHow-to-Reorient-Computing-for-Just"
-%}
+{% capture col3 %}
 
 {%
   include button.html
@@ -149,11 +141,19 @@ JSD was introduced in Professor Becker's book, Insolvent: How to reorient comput
   link="https://mitpress.mit.edu/9780262545600/insolvent/"
 %}
 
+{% endcapture %}
+
+{% capture col4 %}
+
 {%
   include button.html
   type=""
   text="Learn More About Insolvent"
   link="https://scd-github.github.io/jsd-lab-website-template/insolvent/"
 %}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 %}
 
 
