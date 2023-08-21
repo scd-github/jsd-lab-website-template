@@ -15,7 +15,7 @@ carousels:
 
 {% include section.html background="images/green.png" dark=true %}
 
-# {% include icon.html icon="fa-solid fa-users"%} Just Sustainability Design Lab
+Just Sustainability Design Lab
 ### *We **want** to change things. We **have** to change things.*
 
 {% include section.html %}
