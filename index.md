@@ -12,7 +12,7 @@ carousels:
 
 {% include carousel.html height="40" unit="%" duration="7" number="1" %}
 
-Just Sustainability Design Lab
+# Just Sustainability Design Lab
 
 {% include section.html %}
 
