@@ -36,12 +36,27 @@ We do that through a combination of:
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-### PhD Alumni
-- Curtis McCord (PhD '22)
-- Dawn Walker (PhD '22)
+### Alumni
+#### 2023
+- Shauna Douglas (MI)
+ 
+#### 2022
+- Curtis McCord (PhD)
+- Dawn Walker (PhD)
 
-### Masters Alumni
-- TBD
+#### 2020
+- Dr. Fabian Fagerholm (PostDoctoral Fellow), now Assistant Professor at Aalto University
+- Andres de los Rios (MI) 
+- Enning Zhang (MI)
+- Rachel Booth (MI)
+- Tara Tsang (MI)
+- Jules Phillips (MI)
+
+#### 2019
+- Aman Biswas (MI)
+- Tina Deng (MI)
+- Kenya Hewitt (MI)
+- Allen Kwan (MI)
 
 [##]: #
 
