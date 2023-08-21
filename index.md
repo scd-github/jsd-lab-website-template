@@ -79,13 +79,13 @@ JSD was introduced in Professor Becker's book, Insolvent: How to reorient comput
 [##]: #
 
 
-: {%
+|: {%
   include button.html
   type=""
   text="Read Insolvent For Free"
   link="https://direct.mit.edu/books/oa-monograph/5594/InsolventHow-to-Reorient-Computing-for-Just"
 %}
-
+: |||
 {%
   include button.html
   type=""
