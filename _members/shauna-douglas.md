@@ -1,6 +1,6 @@
 ---
 name: Shauna Douglas
-image: images/photo.jpg
+image: images/Shauna.jpg
 description: Masters Student, Faculty of Information
 role: Research Assistant, Faculty of Information
 group: 
