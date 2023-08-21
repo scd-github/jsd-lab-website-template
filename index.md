@@ -15,8 +15,7 @@ carousels:
 
 {% include section.html background="images/green.png" dark=true %}
 
-Just Sustainability Design Lab
-### *We **want** to change things. We **have** to change things.*
+# Just Sustainability Design Lab
 
 {% include section.html %}
 
@@ -29,41 +28,26 @@ We do that through a combination of:
 2. the development of methods and tools for just sustainability design 
 3. design projects to bring forth just sustainabilities in urban contexts
 
-{% include section.html background="images/insolvent-crop.png" dark=true %}
-
-{% capture col1 %}
-Our **Vision** is to 
-Lorem ipsum dolor sit amet
-consectetur adipiscing elit 
-{% endcapture %}
-
-{% capture col2 %}
-Our **Mission** is to 
-Lorem ipsum dolor sit amet
-consectetur adipiscing elit 
-{% endcapture %}
-
-{% capture col3 %}
-Our **Mandate** is to 
-Lorem ipsum dolor sit amet
-consectetur adipiscing elit 
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
-
-{% include section.html %}
-
-## Research Areas
-
-- [Data Curation and Digital Systems in Urban Planning]
-- [Decision Support for Environmental Sustainability]
-- [Values in Computing]
-- [ICT for Sustainability]
-- [Judgement and Decision-making in System Design]
-- [Just Sustainability Design]
-
 ## Recent Projects
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
+
+## Who We Are
+### Current Members
+{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+
+### Alumni
+- Curtis McCord (PhD '22)
+- Dawn Walker (PhD '22)
+
+[##]: #
+
+{%
+  include button.html
+  type=""
+  text="Joining the Lab"
+  link="https://scd-github.github.io/jsd-lab-website-template/lab/"
+%}
 
 ## Research Funding
 
@@ -114,30 +98,13 @@ consectetur adipiscing elit
 
 {% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 %}
 
-## Who We Are
-### Current Members
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
-
-### Alumni
-- Curtis McCord (PhD '22)
-- Dawn Walker (PhD '22)
-
-[##]: #
-
-{%
-  include button.html
-  type=""
-  text="Joining the Lab"
-  link="https://scd-github.github.io/jsd-lab-website-template/lab/"
-%}
-  
 {% include section.html background="images/green.png" dark=true %}
 
 # {% include icon.html icon="fa-solid fa-microscope" %} Introducing Just Sustainability Design
-### *Computing is insolvent: unable to pay its debts to our planet and its societies. JSD reorients tech work so we can build a better future together.*
 
 {% include section.html %}
+
+### *Computing is insolvent: unable to pay its debts to our planet and its societies. JSD reorients tech work so we can build a better future together.*
 
 ## What is Just Sustainability Design
 Just Sustainability Design, JSD for short, is a framework for systems design practice, research, and pedagogy that privileges sustainability and justice and therefore, the asymmetric and uneven effects of systems design choices at a distance. JSD aims to bring about improvement, not just avoid damage. 
