@@ -109,14 +109,12 @@ We do that through a combination of:
 ## What is Just Sustainability Design
 Just Sustainability Design, JSD for short, is a framework for systems design practice, research, and pedagogy that privileges sustainability and justice and therefore, the asymmetric and uneven effects of systems design choices at a distance. JSD aims to bring about improvement, not just avoid damage. 
 
-Professor Becker's book, Insolvent: How to reorient computing for just sustainability appeared at MIT Press in 2023. 
-
-Get it now! Or read for free through Open Access.
+JSD was introduced in Professor Becker's book, Insolvent: How to reorient computing for just sustainability appeared at MIT Press in 2023. If you want to learn more about Just Sustainability Design, see the resources below.
 
 {%
   include button.html
   type=""
-  text="Read For Free"
+  text="Read Insolvent For Free"
   link="https://direct.mit.edu/books/oa-monograph/5594/InsolventHow-to-Reorient-Computing-for-Just"
 %}
 
