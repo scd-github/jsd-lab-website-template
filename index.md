@@ -46,7 +46,7 @@ We do that through a combination of:
   include button.html
   type=""
   text="Joining the Lab"
-  link="https://scd-github.github.io/jsd-lab-website-template/lab/"
+  link=prospective students
 %}
 
 ## Research Funding
