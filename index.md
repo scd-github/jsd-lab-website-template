@@ -131,20 +131,12 @@ JSD was introduced in Professor Becker's book, Insolvent: How to reorient comput
   link="https://direct.mit.edu/books/oa-monograph/5594/InsolventHow-to-Reorient-Computing-for-Just"
 %}
 
-{% endcapture %}
-
-{% capture col3 %}
-
 {%
   include button.html
   type=""
   text="Get Your Copy"
   link="https://mitpress.mit.edu/9780262545600/insolvent/"
 %}
-
-{% endcapture %}
-
-{% capture col4 %}
 
 {%
   include button.html
@@ -155,6 +147,6 @@ JSD was introduced in Professor Becker's book, Insolvent: How to reorient comput
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 %}
+{% include cols.html col1=col1 col2=col2 %}
 
 
