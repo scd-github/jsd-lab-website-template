@@ -15,7 +15,7 @@ carousels:
 
 {% include section.html background="images/green.png" dark=true %}
 
-# Just Sustainability Design Lab
+# {% include icon.html icon="fa-solid fa-feather-pointed" %} Just Sustainability Design Lab
 
 {% include section.html %}
 
