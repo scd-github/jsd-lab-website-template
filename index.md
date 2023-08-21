@@ -76,12 +76,10 @@ JSD was introduced in Professor Becker's book, Insolvent: How to reorient comput
 
 {% capture col2 %}
 
-[## Just Sustainability Design, JSD for short, is a framework for systems design practice, researc]: #
-[## Just Sustainability Design, JSD for short, is a framework for systems design practice, researc]: #
-[## Just Sustainability Design, JSD for short, is a framework for systems design practice, researc]: #
-[## Just Sustainability Design, JSD for short, is a framework for systems design practice, researc]: #
+[##]: #
 
-{%
+
+: {%
   include button.html
   type=""
   text="Read Insolvent For Free"
