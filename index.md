@@ -46,7 +46,7 @@ We do that through a combination of:
   include button.html
   type=""
   text="Joining the Lab"
-  link=prospective students
+  link= Prospective Students
 %}
 
 ## Research Funding
