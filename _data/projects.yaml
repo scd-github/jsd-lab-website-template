@@ -9,17 +9,6 @@
     - platform
     - cities
 
-- title: Sidewalk and Toronto
-  subtitle: Critical systems heuristics and the smart city
-  image: images/toronto.png
-  link: https://arxiv.org/abs/1906.02266
-  description: A paper which uses Critical Systems Heuristics (CSH) to examine the design of Sidewalk Toronto, a previously planned smart city development.
-  repo: 
-  tags:
-    - resource
-    - sustainability
-    - CSH
-
 - title: Building Inclusive Neighbourhoods: Community advocacy through design justice in four Toronto immigrant neighbourhoods
   subtitle: School of Cities Urban Challenge 3.0
   image: images/school of cities.png
