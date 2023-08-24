@@ -29,3 +29,14 @@
   tags:
     - publication
     - software engineering
+
+- title: Sidewalk and Toronto
+  subtitle: Critical systems heuristics and the smart city
+  image: images/toronto.png
+  link: https://arxiv.org/abs/1906.02266
+  description: A paper which uses Critical Systems Heuristics (CSH) to examine the design of Sidewalk Toronto, a previously planned smart city development.
+  repo: 
+  tags:
+    - resource
+    - sustainability
+    - CSH
