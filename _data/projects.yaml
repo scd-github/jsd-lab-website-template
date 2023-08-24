@@ -20,6 +20,17 @@
     - sustainability
     - CSH
 
+- title: Building Inclusive Neighbourhoods: Community advocacy through design justice in four Toronto immigrant neighbourhoods
+  subtitle: School of Cities Urban Challenge 3.0
+  image: images/school of cities.png
+  link: https://schoolofcities.utoronto.ca/urban-challenge-grant-3-0-migration-belonging-and-thriving/
+  description: One of 13 research projects from School of Cities awarded grants looking into migration, belonging and thriving
+  repo:
+  tags:
+    - school of cities
+    - civic tech
+    - inclusive neighbourhoods
+
 - title: Temporal Discounting in Software Engineering
   subtitle: A replication study
   image: images/toronto.png
