@@ -280,3 +280,20 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/MS.2015.158
+  title: 'Requirements: The Key to Sustainability'
+  authors:
+  - Christoph Becker
+  - Stefanie Betz
+  - Ruzanna Chitchyan
+  - Leticia Duboc
+  - Steve M. Easterbrook
+  - Birgit Penzenstadler
+  - Norbet Seyff
+  - Colin C. Venters
+  publisher: IEEE Software
+  date: '2016-01-01'
+  link: https://doi.org/gm797z
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
