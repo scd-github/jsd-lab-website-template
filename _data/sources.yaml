@@ -1,6 +1,8 @@
 - id: url:https://www.thestar.com/opinion/contributors/it-s-time-to-defund-big-tech-and-empower-communities/article_60361bf3-a85c-5598-aac4-798f006f9c42.html
   type: article
 
+- id: url: https://www.derstandard.at/story/2000114033073/ein-neuer-kompass-fuer-die-digitale-zukunft
+  type: article
 
 - id: doi:10.1016/j.infsof.2023.107163
   type: paper
@@ -26,3 +28,12 @@
 
 - id: 10.1145/3371906
   type: journal
+
+- id: 10.1109/MS.2019.2944784
+  type: journal
+
+- id: 10.1002/asi.24209
+  type: journal
+
+- id: doi:10.4230/DagRep.9.7.40
+  type: article
