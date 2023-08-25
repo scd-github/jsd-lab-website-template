@@ -99,17 +99,3 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: url:https://arxiv.org/abs/1901.07024
-  title: 'Temporal Discounting in Technical Debt: How do Software Practitioners Discount
-    the Future?'
-  authors:
-  - Christoph Becker
-  - Fabian Fagerholm
-  - Rahul Mohanani
-  - Alexandros Chatzigeorgiou
-  publisher: arXiv
-  date: '2019-04-02'
-  link: http://arxiv.org/abs/1901.07024
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
