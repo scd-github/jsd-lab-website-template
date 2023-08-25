@@ -12,7 +12,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Ninth Computing within Limits 2023" style="rich" %}
+{% include citation.html lookup="Pathways to urban sustainability" style="rich" %}
 
 {% include section.html %}
 
