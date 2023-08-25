@@ -32,8 +32,3 @@
 - id: doi:10.1109/MS.2019.2944784
   type: journal
 
-- id: doi:10.1002/asi.24209
-  type: journal
-
-- id: doi:10.4230/DagRep.9.7.40
-  type: article
