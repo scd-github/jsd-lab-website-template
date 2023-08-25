@@ -70,6 +70,16 @@
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
+- id: url:https://www.thestar.com/opinion/contributors/it-s-time-to-defund-big-tech-and-empower-communities/article_60361bf3-a85c-5598-aac4-798f006f9c42.html
+  title: "It\u2019s time to defund Big Tech and empower communities"
+  authors:
+  - Christoph Becker Contributors Clement
+  publisher: Toronto Star
+  date: '2021-02-24'
+  link: https://www.thestar.com/opinion/contributors/it-s-time-to-defund-big-tech-and-empower-communities/article_60361bf3-a85c-5598-aac4-798f006f9c42.html
+  type: article
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.infsof.2023.107163
   title: "It\u2019s about time: How to study intertemporal choice in systems design"
   authors:
