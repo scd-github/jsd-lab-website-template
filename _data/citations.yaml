@@ -81,6 +81,17 @@
   type: article
   plugin: sources.py
   file: sources.yaml
+- id: url:https://archivaria.ca/index.php/archivaria/article/view/13628
+  title: 'Metaphors We Work By: Reframing Digital Objects, Significant Properties,
+    and the Design of Digital Preservation Systems'
+  authors:
+  - Christoph Becker
+  publisher: Archivaria
+  date: '2018-05-03'
+  link: https://archivaria.ca/index.php/archivaria/article/view/13628
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.infsof.2023.107163
   title: "It\u2019s about time: How to study intertemporal choice in systems design"
   authors:
