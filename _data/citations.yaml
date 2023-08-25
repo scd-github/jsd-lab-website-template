@@ -122,21 +122,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.4230/DagRep.9.7.40
-  title: Values in Computing (Dagstuhl Seminar 19291)
-  authors:
-  - Christoph Becker
-  - Gregor Engels
-  - Andrew Feenberg
-  - Maria Angela Ferrario
-  - Geraldine Fitzpatrick
-  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarbruecken,
-    Germany
-  date: '2019-01-01'
-  link: https://doi.org/gm7984
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/MS.2019.2944784
   title: Critical Requirements Engineering in Practice
   authors:
@@ -189,5 +174,20 @@
   date: '2020-02-24'
   link: https://doi.org/gh46dk
   type: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.4230/DagRep.9.7.40
+  title: Values in Computing (Dagstuhl Seminar 19291)
+  authors:
+  - Christoph Becker
+  - Gregor Engels
+  - Andrew Feenberg
+  - Maria Angela Ferrario
+  - Geraldine Fitzpatrick
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarbruecken,
+    Germany
+  date: '2019-01-01'
+  link: https://doi.org/gm7984
+  type: paper
   plugin: sources.py
   file: sources.yaml
