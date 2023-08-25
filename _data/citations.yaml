@@ -234,3 +234,38 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.4230/DagMan.6.1.1
+  title: Engineering Academic Software (Dagstuhl Perspectives Workshop 16252)
+  authors:
+  - Alice Allen
+  - Cecilia Aragon
+  - Christoph Becker
+  - Jeffrey Carver
+  - Andrei Chis
+  - Benoit Combemale
+  - Mike Croucher
+  - Kevin Crowston
+  - Daniel Garijo
+  - Ashish Gehani
+  - Carole Goble
+  - Robert Haines
+  - Robert Hirschfeld
+  - James Howison
+  - Kathryn Huff
+  - Caroline Jay
+  - Daniel S. Katz
+  - Claude Kirchner
+  - Katie Kuksenok
+  - "Ralf L\xE4mmel"
+  - Oscar Nierstrasz
+  - Matt Turk
+  - Rob Van Nieuwpoort
+  - Matthew Vaughn
+  - Jurgen J. Vinju
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarbruecken,
+    Germany
+  date: '2017-01-01'
+  link: https://doi.org/b7xv
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
