@@ -4,6 +4,9 @@
 - id: url:https://archivaria.ca/index.php/archivaria/article/view/13628
   type: paper
 
+- id: url:https://archivaria.ca/index.php/archivaria/article/view/13628
+  type: paper
+
 - id: doi:10.1016/j.infsof.2023.107163
   type: paper
   image: images/chocolates_judgment.jpg
@@ -59,8 +62,5 @@
 - id: doi:10.1108/OCLC-06-2014-0025
   type: paper
 
-- id: url:https://asistdl-onlinelibrary-wiley-com.myaccess.library.utoronto.ca/doi/10.1002/asi.23807
-  type: paper
 
-- id: url:https://archivaria.ca/index.php/archivaria/article/view/13628
-  type: paper
+
