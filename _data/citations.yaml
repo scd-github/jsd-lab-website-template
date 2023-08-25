@@ -99,3 +99,15 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1007/s00799-021-00311-0
+  title: Improving data quality in large-scale repositories through conflict resolution
+  authors:
+  - Artur Kulmukhametov
+  - Andreas Rauber
+  - Christoph Becker
+  publisher: International Journal on Digital Libraries
+  date: '2021-10-21'
+  link: https://doi.org/gm8jkv
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
