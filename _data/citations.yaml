@@ -204,3 +204,33 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.jss.2017.12.026
+  title: 'Software sustainability: Research and practice from a software architecture
+    viewpoint'
+  authors:
+  - Colin C. Venters
+  - Rafael Capilla
+  - Stefanie Betz
+  - Birgit Penzenstadler
+  - Tom Crick
+  - Steve Crouch
+  - Elisa Yumi Nakagawa
+  - Christoph Becker
+  - Carlos Carrillo
+  publisher: Journal of Systems and Software
+  date: '2018-04-01'
+  link: https://doi.org/gsm4hn
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/asi.23881
+  title: Format technology lifecycle analysis
+  authors:
+  - Kresimir Duretec
+  - Christoph Becker
+  publisher: Journal of the Association for Information Science and Technology
+  date: '2017-06-14'
+  link: https://doi.org/gbxsrh
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
