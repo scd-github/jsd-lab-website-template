@@ -50,5 +50,7 @@
 - id: doi:10.4230/DagMan.6.1.1
   type: paper
 
+- id: doi: 10.1002/asi.23807
+  type: paper
 
 
