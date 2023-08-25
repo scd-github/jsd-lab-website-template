@@ -56,8 +56,9 @@
   date: '2019-04-05'
   link: https://doi.org/gj798p
   orcid: 0000-0002-8364-0593
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: journal
 - id: doi:10.1145/3012004
   title: The Challenge of Test Data Quality in Data Processing
   authors:
@@ -121,6 +122,34 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.4230/DagRep.9.7.40
+  title: Values in Computing (Dagstuhl Seminar 19291)
+  authors:
+  - Christoph Becker
+  - Gregor Engels
+  - Andrew Feenberg
+  - Maria Angela Ferrario
+  - Geraldine Fitzpatrick
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarbruecken,
+    Germany
+  date: '2019-01-01'
+  link: https://doi.org/gm7984
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MS.2019.2944784
+  title: Critical Requirements Engineering in Practice
+  authors:
+  - Leticia Duboc
+  - Curtis McCord
+  - Christoph Becker
+  - Syed Ishtiaque Ahmed
+  publisher: IEEE Software
+  date: '2020-01-01'
+  link: https://doi.org/gnnhvk
+  type: journal
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3608115
   title: How Viable are Energy Savings in Smart Homes? A Call to Embrace Rebound Effects
     in Sustainable HCI
@@ -137,7 +166,7 @@
   type: journal
   plugin: sources.py
   file: sources.yaml
-- id: 10.1145/3371906
+- id: doi:10.1145/3371906
   title: Toward model-driven sustainability evaluation
   authors:
   - "J\xF6rg Kienzle"
