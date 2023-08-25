@@ -297,3 +297,15 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1108/OCLC-06-2014-0026
+  title: 'Scalable decision support for digital preservation: an assessment'
+  authors:
+  - Christoph Becker
+  - Luis Faria
+  - Kresimir Duretec
+  publisher: 'OCLC Systems &amp; Services: International digital library perspectives'
+  date: '2015-02-09'
+  link: https://doi.org/gsm4jf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
