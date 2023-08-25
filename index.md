@@ -102,7 +102,6 @@ JSD was introduced in Professor Becker's book, Insolvent: How to reorient comput
 
 |
 
-|
 
 |
 {%
