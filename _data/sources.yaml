@@ -1,8 +1,6 @@
 - id: url:https://www.thestar.com/opinion/contributors/it-s-time-to-defund-big-tech-and-empower-communities/article_60361bf3-a85c-5598-aac4-798f006f9c42.html
   type: article
 
-
-
 - id: doi:10.1016/j.infsof.2023.107163
   type: paper
   image: images/chocolates_judgment.jpg
@@ -22,12 +20,6 @@
 - id: doi:10.1007/s00799-021-00311-0
   type: paper
 
-- id: doi:10.1002/asi.24209
-  type: journal
-
-- id: doi:10.4230/DagRep.9.7.40
-  type: paper
-
 - id: doi:10.1109/MS.2019.2944784
   type: journal
 
@@ -37,6 +29,32 @@
 - id: doi:10.1145/3371906
   type: journal
 
+- id: doi:10.1002/asi.24209
+  type: journal
 
+- id: doi:10.4230/DagRep.9.7.40
+  type: paper
 
+- id: doi: 10.1109/MS.2018.110154908
+  type: paper
 
+- id: url:https://archivaria.ca/index.php/archivaria/article/view/13628
+  type: paper
+
+- id: doi:10.1002/asi.24048
+  type: paper
+
+- id: doi:10.1016/j.jss.2017.12.026
+  type: paper
+
+- id: doi:10.1002/asi.23881
+  type: paper
+
+- id: doi:10.4230/DagMan.6.1.1
+  type: paper
+
+- id: doi: 10.1002/asi.23807
+  type: paper
+
+- id: doi: 10.1145/3012004
+  type: paper
