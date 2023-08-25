@@ -16,3 +16,15 @@
 
 - id: url:https://arxiv.org/abs/1901.07024
   type: paper
+
+- id: url:https://www.thestar.com/opinion/contributors/it-s-time-to-defund-big-tech-and-empower-communities/article_60361bf3-a85c-5598-aac4-798f006f9c42.html
+  type: paper
+
+- id: url:https://www.derstandard.at/story/2000114033073/ein-neuer-kompass-fuer-die-digitale-zukunft
+  type: paper
+
+- id: doi: 10.1016/j.infsof.2023.107163
+  type: paper
+
+- id: doi:10.1007/s00799-021-00311-0
+  type: paper
