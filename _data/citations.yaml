@@ -191,3 +191,16 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1002/asi.24048
+  title: 'If these crawls could talk: Studying and documenting web archives provenance'
+  authors:
+  - Emily Maemura
+  - Nicholas Worby
+  - Ian Milligan
+  - Christoph Becker
+  publisher: Journal of the Association for Information Science and Technology
+  date: '2018-05-20'
+  link: https://doi.org/gfc67n
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
