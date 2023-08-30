@@ -4,7 +4,6 @@ carousels:
   - images:
     - image: images/limits 2023.png
       url: "https://limits.pubpub.org/pub/iw8v1y2m/release/1"
-      height: 90px
       width: 210px
     - image: images/curbcut.png
       url: "https://toronto.curbcut.ca/"
