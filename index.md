@@ -10,7 +10,7 @@ carousels:
       url: insolvent
 ---
 
-{% include carousel.html height="300" unit="px" duration="7" number="1" %}
+{% include carousel.html unit="px" duration="7" number="1" %}
 
 
 {% include section.html background="images/green.png" dark=true %}
