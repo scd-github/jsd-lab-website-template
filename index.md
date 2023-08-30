@@ -4,14 +4,13 @@ carousels:
   - images:
     - image: images/limits 2023.png
       url: "https://limits.pubpub.org/pub/iw8v1y2m/release/1"
-      width: 210px
     - image: images/curbcut.png
       url: "https://toronto.curbcut.ca/"
     - image: images/insolvent.png
       url: insolvent
 ---
 
-{% include carousel.html width="100%" unit="%" duration="7" number="1" %}
+{% include carousel.html width="200%" unit="%" duration="7" number="1" %}
 
 
 {% include section.html background="images/green.png" dark=true %}
