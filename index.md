@@ -10,7 +10,7 @@ carousels:
       url: insolvent
 ---
 
-{% include carousel.html width="800" height="400" unit="px" duration="7" number="1" %}
+{% include carousel.html width="80" height="400" unit="px" duration="7" number="1" %}
 {% include section.html %}
 
 {% include section.html background="images/green.png" dark=true %}
@@ -177,4 +177,7 @@ JSD was introduced in Professor Becker's book, Insolvent: How to reorient comput
 
 {% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 %}
 
+
+{% include section.html %}
+{% include slider.html selector="slider2" %}
 
