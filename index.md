@@ -17,9 +17,11 @@ image_sliders:
 
 The overarching theme of our group is to conduct  **impactful research on designing information technology for sustainability and social justice, which converge in just sustainability**. The aim is often to enact meaningful change in tech to meet the urgent need for sustainability and social justice. 
 
-We do that through a combination of:
-1. critical examinations of the politics, values, and cognitive processes of design
-2. the development of methods and tools for just sustainability design 
+ The aim is that each project we engage in has the potential to make a difference in shifting our world on a more sustainable and just course, and that some actually do. Design is understood very broadly as the ‘interaction between creation and understanding’ (following Winograd and Flores’ book). We engage in designing by building technology, but equally in studies and critique of how things are, visions of how they could be, investigations of socio-technical, social or cognitive phenomena relevant to design, reflections, and other types of research.  
+
+Our research activities involve:
+1. critical examinations of the politics, values, and cognitive processes of design,
+2. the development of methods and tools for just sustainability design, and
 3. design projects to bring forth just sustainabilities in urban contexts
 
 ## Recent Projects
