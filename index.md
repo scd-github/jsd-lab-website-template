@@ -4,8 +4,6 @@ image_sliders:
   - slider2
 ---
 
-{% include section.html %}
-
 {% include section.html background="images/green.png" dark=true %}
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %} Just Sustainability Design Lab
