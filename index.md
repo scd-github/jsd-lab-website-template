@@ -35,16 +35,16 @@ We do that through a combination of:
 {%
   include button.html
   type=""
-  text="Learn More"
-  link= lab
+  text="Joining the Lab"
+  link= "https://scd-github.github.io/jsd-lab-website-template/lab/#prospective-students"
 
 %}
 
 {%
   include button.html
   type=""
-  text="Joining the Lab"
-  link= "https://scd-github.github.io/jsd-lab-website-template/lab/#prospective-students"
+  text="Learn More"
+  link= [lab](https://scd-github.github.io/jsd-lab-website-template/lab/)
 
 %}
 
