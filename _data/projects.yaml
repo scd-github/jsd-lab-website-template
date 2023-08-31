@@ -38,7 +38,7 @@
     - cognitive studies
 
 - title: Civic Tech Toronto
-  image: images/toronto.jpg
+  image: images/toronto.png
   link: https://doi.org/10.1145/3579462
   description: In this long-running study of Civic Tech Toronto, we show how this community designs civic technology in a way that allows community members and others to engage with democratic governance outside of the conventional transactions of representative democracy.
   tags:
@@ -46,3 +46,12 @@
     - community based research
     - CSCW
 
+- title: Sidewalk and Toronto
+  image: images/toronto.png
+  link: https://arxiv.org/abs/1906.02266
+  description: A paper which uses Critical Systems Heuristics (CSH) to examine the design of Sidewalk Toronto, a previously planned smart city development.
+  repo: 
+  tags:
+    - critical systems thinking
+    - smart cities
+    - case study
