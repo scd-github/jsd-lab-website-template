@@ -47,19 +47,12 @@ The deep entanglement of information technology with our societies has raised ho
 Becker positions the role of information technology and computing in environmental sustainability, social justice, and the intersection of the two, and explains why designing IT for just sustainability is both technically and ethically challenging. Becker goes on to argue that computing could be aided by critical friends—disciplines that draw on critical social theory, feminist thought, and systems thinking—to make better sense of its role in society. Finally, Becker demonstrates that it is possible to fuse critical perspectives with work in computer science, showing new and fruitful directions for computing professionals and researchers to pursue.
 
 {% include section.html %}
-## Glossary
-
-{% include section.html %}
-## Devil's Dicitionary
-
-{% include section.html %}
-## FAQ
-
-{% include section.html %}
-## Media
+## Devil's Dictionary
 
 {% include section.html %}
 ## Reading and Discussion Guide
+
+Coming soon!
 
 {% include section.html %}
 ## Endorsements
