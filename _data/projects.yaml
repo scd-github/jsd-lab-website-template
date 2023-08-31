@@ -1,5 +1,5 @@
 - title: Curbcut
-  image: images/toronto.png
+  image: images/curbcut.png
   link: https://toronto.curbcut.ca/
   description: A map-based data exploration and visualization tool designed to translate urban sustainability data into actionable knowledge for shaping sustainable cities. 
   repo: https://github.com/Curbcut/curbcut-toronto
@@ -9,7 +9,7 @@
     - civic tech
 
 - title: Building Inclusive Neighbourhoods 
-  image: images/school of cities.png
+  image: images/school of cities2.png
   link: https://schoolofcities.utoronto.ca/urban-challenge-grant-3-0-migration-belonging-and-thriving/
   description: In this new project funded by the School of Cities, we explore the tensions between data analytics and lived experience through lenses such as design justice and data feminism.
   repo:
@@ -60,6 +60,16 @@
   image: images/chocolates_judgment.jpg
   link: https://www.sciencedirect.com/science/article/pii/S0950584923000174
   description: In Its about Time How to Study Intertemporal Choice in Systems Design, we set a foundation for future studies in that space by showing that intertemporal choices are ubiquitous and poorly understood and showing how we can study them in realistic ways. 
+  tags:
+    - decision making
+    - intertemporal choice
+    - cognitive studies
+
+- title: Temporal Discounting in Software Engineering
+  image: images/chocolates_judgment.jpg
+  link: https://arxiv.org/abs/1901.07024
+  description: *Temporal discounting* is the idea that outcomes at a distance are 'less important' to us than closer ones. How do we think about that these *intertemporal choices* in practice? What effects does this have?  In Temporal Discounting in Software Engineering A Replication Study, our  team of international collaborators performed a replicated study of decision making in software projects that asked “how do software professionals discount future outcomes?” 
+  repo: 
   tags:
     - decision making
     - intertemporal choice
