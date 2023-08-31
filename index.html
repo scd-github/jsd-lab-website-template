@@ -1467,5 +1467,22 @@
   <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
 </footer>
 
+
+    <!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+  <script src="/jsd-lab-website-template/_scripts/ideal-image-slider.min.js"></script>
+  <script src="/jsd-lab-website-template/_scripts/iis-bullet-nav.js"></script>
+  <script src="/jsd-lab-website-template/_scripts/iis-captions.js"></script>
+  <script>
+  var slider2 = new IdealImageSlider.Slider({
+      selector: '#slider2',
+      height: 'auto',
+      effect: 'fade',
+      });
+    slider2.addBulletNav();
+    slider2.addCaptions();
+    slider2.start();
+  </script>
   </body>
 </html>
