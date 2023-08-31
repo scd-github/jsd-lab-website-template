@@ -4,7 +4,7 @@ image_sliders:
   - slider2
 ---
 
-#{% include slider.html selector="slider2" %}
+-- {% include slider.html selector="slider2" %}
 {% include section.html %}
 
 {% include section.html background="images/green.png" dark=true %}
