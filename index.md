@@ -1,5 +1,7 @@
 ---
 title: Home
+image_sliders:
+  - slider2
 carousels:
   - images:
     - image: images/limits 2023.png
