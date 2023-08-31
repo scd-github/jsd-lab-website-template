@@ -37,4 +37,12 @@
     - intertemporal choice
     - cognitive studies
 
+- title: Civic Tech Toronto
+  image: images/toronto.jpg
+  link: https://doi.org/10.1145/3579462
+  description: In this long-running study of Civic Tech Toronto, we show how this community designs civic technology in a way that allows community members and others to engage with democratic governance outside of the conventional transactions of representative democracy.
+  tags:
+    - civic tech
+    - community based research
+    - CSCW
 
