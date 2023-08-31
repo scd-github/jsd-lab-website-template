@@ -28,12 +28,13 @@
     - karlskrona
     - test
 
-- title: Intertemporal choice in systems design
-  image: images/chocolates_judgment.jpg
-  link: https://www.sciencedirect.com/science/article/pii/S0950584923000174
-  description: In It’s about Time: How to Study Intertemporal Choice in Systems Design, we set a foundation for future studies in that space by showing that intertemporal choices are ubiquitous and poorly understood and showing how we can study them in realistic ways.
+- title: Undecided? A Board Game
+  image: images/undecided.jpg
+  link: https://ppig.org/papers/2020-ppig-31st-becker/
+  description:  In Undecided? A Board Game to study Intertemporal choices in software projects, our team did, well, what the title says. The game facilitates (1) educational exploration of intertemporal choice and (2) studies of intertemporal choice.
   tags:
     - decision making
     - intertemporal choice
     - cognitive studies
+
 
