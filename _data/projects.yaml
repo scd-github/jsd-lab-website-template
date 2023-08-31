@@ -31,7 +31,7 @@
 - title: Temporal Discounting in Software Engineering
   image: images/chocolates_judgment.jpg
   link: https://arxiv.org/abs/1901.07024
-  description: "Temporal discounting" is the idea that outcomes at a distance are 'less important' to us than closer ones. How do we think about that these 'intertemporal choices' in practice? What effects does this have?  In Temporal Discounting in Software Engineering: A Replication Study, our  team of international collaborators performed a replicated study of decision making in software projects that asked “how do software professionals discount future outcomes?” We demonstrated that some practitioners exhibited preferences that can be described as severe temporal discounting: their evaluation of uncertain beneficial outcomes shifted as their temporal distance increased. This has significant implications for sustainability.
+  description: 'Temporal discounting' is the idea that outcomes at a distance are 'less important' to us than closer ones. How do we think about that these 'intertemporal choices' in practice? What effects does this have?  In Temporal Discounting in Software Engineering: A Replication Study, our  team of international collaborators performed a replicated study of decision making in software projects that asked “how do software professionals discount future outcomes?” We demonstrated that some practitioners exhibited preferences that can be described as severe temporal discounting: their evaluation of uncertain beneficial outcomes shifted as their temporal distance increased. This has significant implications for sustainability.
   repo: 
   tags:
     - decision making
