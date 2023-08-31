@@ -1,5 +1,4 @@
 - title: Curbcut
-  subtitle: A platform for urban sustainability
   image: images/toronto.png
   link: https://toronto.curbcut.ca/
   description: A map-based data exploration and visualization tool designed to translate urban sustainability data into actionable knowledge for shaping sustainable cities. 
@@ -10,7 +9,6 @@
     - cities
 
 - title: Building Inclusive Neighbourhoods 
-  subtitle: Community advocacy through design justice in four Toronto immigrant neighbourhoods
   image: images/school of cities.png
   link: https://schoolofcities.utoronto.ca/urban-challenge-grant-3-0-migration-belonging-and-thriving/
   description: One of 13 research projects from School of Cities awarded grants looking into migration, belonging and thriving
@@ -21,7 +19,6 @@
     - inclusive neighbourhoods
 
 - title: Temporal Discounting in Software Engineering
-  subtitle: A replication study
   image: images/toronto.png
   link: https://arxiv.org/abs/1901.07024
   description: Technical Debt research largely develops prescriptive approaches for how software engineers should make such decisions. Few have studied how they actually make them.
@@ -31,7 +28,6 @@
     - software engineering
 
 - title: Sidewalk and Toronto
-  subtitle: Critical systems heuristics and the smart city
   image: images/toronto.png
   link: https://arxiv.org/abs/1906.02266
   description: A paper which uses Critical Systems Heuristics (CSH) to examine the design of Sidewalk Toronto, a previously planned smart city development.
