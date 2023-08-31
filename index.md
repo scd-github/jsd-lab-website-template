@@ -147,7 +147,7 @@ JSD was introduced in Professor Becker's book, Insolvent: How to reorient comput
 {% endcapture %}
 
 {% capture col4 %}
-[##]: #
+
 {%
   include figure.html
   image="images/innovation-ca-canada-foundation-for-innovation-cfi-logo-vector.png"
