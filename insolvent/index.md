@@ -49,6 +49,13 @@ Becker positions the role of information technology and computing in environment
 {% include section.html %}
 ## Devil's Dictionary
 
+{%
+  include button.html
+  type=""
+  text="Explore More"
+  link="https://scd-github.github.io/jsd-lab-website-template/insolvent/devil dictionary"
+%}
+
 {% include section.html %}
 ## Reading and Discussion Guide
 
