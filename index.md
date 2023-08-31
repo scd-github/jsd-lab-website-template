@@ -44,7 +44,7 @@ We do that through a combination of:
   include button.html
   type=""
   text="Learn More"
-  link= [lab](https://scd-github.github.io/jsd-lab-website-template/lab/)
+  link= "https://scd-github.github.io/jsd-lab-website-template/lab/"
 
 %}
 
