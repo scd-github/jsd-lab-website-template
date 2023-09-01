@@ -539,21 +539,28 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https:https://hdl.handle.net/11353/10.429547
-  title: ''
-  authors: []
-  publisher: ''
+- id: url:https://hdl.handle.net/11353/10.429547
+  title: Benchmarks for Digital Preservation Tools
+  authors:
+  - Kresimir Duretec
+  - Artur Kulmukhametov
+  - Andreas Rauber
+  - Christoph Becker
+  publisher: Proceedings of the 12th International Conference on Digital Preservation
   date: ''
-  link: https:https://hdl.handle.net/11353/10.429547
+  link: https://phaidra.univie.ac.at/detail/o:429547
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https:https://hdl.handle.net/11353/10.429553
-  title: ''
-  authors: []
-  publisher: ''
+- id: url:https://hdl.handle.net/11353/10.429553
+  title: A Survey of Organizational Assessment Frameworks in Digital Preservation
+  authors:
+  - Emily Maemura
+  - Nathan Moles
+  - Christoph Becker
+  publisher: Proceedings of the 12th International Conference on Digital Preservation
   date: ''
-  link: https:https://hdl.handle.net/11353/10.429553
+  link: https://phaidra.univie.ac.at/detail/o:429553
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -610,21 +617,32 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https:https://hdl.handle.net/11353/10.378051
-  title: ''
-  authors: []
+- id: url:https://hdl.handle.net/11353/10.378051
+  title: 'Open Preservation Data: Controlled vocabularies and ontologies for preservation
+    ecosystems: Paper - iPres 2013 - Lisbon'
+  authors:
+  - Hannes Kulovits
+  - Michael Kraxner
+  - Markus Plangg
+  - Christoph Becker
+  - Sean Bechhofer
   publisher: ''
   date: ''
-  link: https:https://hdl.handle.net/11353/10.378051
+  link: https://phaidra.univie.ac.at/detail/o:378051
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https:https://hdl.handle.net/11353/10.378091
-  title: ''
-  authors: []
+- id: url:https://hdl.handle.net/11353/10.378091
+  title: 'The SCAPE Planning and Watch suite: Paper - iPres 2013 - Lisbon'
+  authors:
+  - Michael Kraxner
+  - Markus Plangg
+  - Kresimir Duretec
+  - Christoph Becker
+  - "Lu\xEDs Faria"
   publisher: ''
   date: ''
-  link: https:https://hdl.handle.net/11353/10.378091
+  link: https://phaidra.univie.ac.at/detail/o:378091
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -636,7 +654,7 @@
   - Andreas Rauber
   - Christoph Becker
   publisher: Proceedings of the 12th International Conference on Digital Preservation
-  date: ''
+  date: '2015-06-03'
   link: https://phaidra.univie.ac.at/detail/o:429621
   type: paper
   plugin: sources.py
@@ -756,7 +774,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https:techotherwise.pubpub.org/cscw20
+- id: url:https://techotherwise.pubpub.org/cscw20
   title: "CSCW '20 \xB7 Tech Otherwise"
   authors: []
   publisher: Tech Otherwise
@@ -765,12 +783,12 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: http:https://techotherwise.pubpub.org/pdc20
-  title: ''
+- id: url:https://techotherwise.pubpub.org/pdc20
+  title: "PDC '20 \xB7 Tech Otherwise"
   authors: []
-  publisher: ''
+  publisher: Tech Otherwise
   date: ''
-  link: http:https://techotherwise.pubpub.org/pdc20
+  link: https://techotherwise.pubpub.org/pdc20
   type: paper
   plugin: sources.py
   file: sources.yaml
