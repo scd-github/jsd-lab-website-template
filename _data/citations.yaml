@@ -523,3 +523,37 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/ICSE.2015.179
+  title: 'Sustainability Design and Software: The Karlskrona Manifesto'
+  authors:
+  - Christoph Becker
+  - Ruzanna Chitchyan
+  - Leticia Duboc
+  - Steve Easterbrook
+  - Birgit Penzenstadler
+  - Norbert Seyff
+  - Colin C. Venters
+  publisher: 2015 IEEE/ACM 37th IEEE International Conference on Software Engineering
+  date: '2015-05-01'
+  link: https://doi.org/gmvkpr
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https:https://hdl.handle.net/11353/10.429547
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https:https://hdl.handle.net/11353/10.429547
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https:https://hdl.handle.net/11353/10.429553
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https:https://hdl.handle.net/11353/10.429553
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
