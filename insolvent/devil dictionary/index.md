@@ -43,4 +43,60 @@ nav:
 >#### Innovate, v.
 >
 > To do onto other people’s jobs as you would not have them do unto yours
->> Source: (not mentioned in Insolvent) Inspired by the [Golden Rule](https://www.britannica.com/topic/Golden-Rule) 
+>> Source: (not mentioned in Insolvent) Inspired by the [Golden Rule](https://www.britannica.com/topic/Golden-Rule)
+
+>#### Irrationality, n.
+>
+> Those parts of human life that rationality has no access to.
+>> Source: Insolvent, p.102 and 179
+
+>#### Judgement, n.
+>
+> That which is irrational in human reasoning.
+>> Source: Insolvent, p.102
+
+>#### Kick-Off, n.
+>
+> The short period in which all active project participants succumb to the illusion that they agree on what the project purpose is.
+>> Source: Insolvent, p.99
+
+>#### Models, n. pl.
+>
+> The carpets under which, if we look carefully, we can find the human values, politics and moral decisions that have become code, features, qualities, documentation and other technological facts through the social practice we call systems design.
+>> Source: Insolvent, p.156
+
+>#### Problem, n.
+>
+> Something that can be fixed or solved.
+>> Source: Insolvent, p.13 and 198
+
+>#### Problem-solving, n.
+>
+> The process of fixing things that aren’t broken (because they don’t exist) and thereby creating new problems.
+>> Source: Insolvent, p.198
+
+>#### Rationality, n.
+>
+> That form of deductive reasoning which can be encoded and computed.
+>> Source: Insolvent, p.179
+
+>#### Rationality, n.
+>
+> That form of deductive reasoning which can be encoded and computed.
+>> Source: Insolvent, p.179
+
+>#### Requirements Engineering, n.
+>
+> The social practice of turning wet, interesting issues such as human values, politics and moral decisions into dry, complicated diagrams (models) that create the illusion that the work to be done is solidly understood.
+>> Source: Insolvent, p.227
+
+>#### Software Engineering, n.
+>
+> The social practice that converts human values, politics and moral decisions into code, features, qualities, documentation, and other technological facts.
+>> Source: Insolvent, p.95
+
+
+
+
+
+
