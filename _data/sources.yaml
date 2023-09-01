@@ -90,11 +90,11 @@
   type: paper
 - id: doi:10.1109/JCDL.2017.7991565
   type: paper
-  - id: doi: https://doi.org/10.1109/ICSE-SEIS.2017.2
+  - id: doi:10.1109/ICSE-SEIS.2017.2
   type: paper
-- id: doi: http://dx.doi.org/10.2991/ict4s-16.2016.20
+- id: doi:10.2991/ict4s-16.2016.20
   type: paper
-- id: doi: https://doi.org/10.1145/2889160.2889217
+- id: doi:10.1145/2889160.2889217
   type: paper
 
 
