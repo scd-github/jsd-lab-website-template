@@ -340,3 +340,60 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1145/3384772.3385141
+  title: The Design of Pseudo-Participation
+  authors:
+  - Victoria Palacin
+  - Matti Nelimarkka
+  - "Pedro Reynolds-Cu\xE9llar"
+  - Christoph Becker
+  publisher: Proceedings of the 16th Participatory Design Conference 2020 - Participation(s)
+    Otherwise - Volume 2
+  date: '2020-06-15'
+  link: https://doi.org/gsnt6v
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ESEM.2019.8870161
+  title: 'Temporal Discounting in Software Engineering: A Replication Study'
+  authors:
+  - Fabian Fagerholm
+  - Christoph Becker
+  - Alexander Chatzigeorgiou
+  - Stefanie Betz
+  - Leticia Duboc
+  - Birgit Penzenstadler
+  - Rahul Mohanani
+  - Colin C. Venters
+  publisher: 2019 ACM/IEEE International Symposium on Empirical Software Engineering
+    and Measurement (ESEM)
+  date: '2019-09-01'
+  link: https://doi.org/gh78ws
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TechDebt.2019.00011
+  title: 'Temporal Discounting in Technical Debt: How do Software Practitioners Discount
+    the Future?'
+  authors:
+  - Christoph Becker
+  - Fabian Fagerholm
+  - Rahul Mohanani
+  - Alexander Chatzigeorgiou
+  publisher: 2019 IEEE/ACM International Conference on Technical Debt (TechDebt)
+  date: '2019-05-01'
+  link: https://doi.org/gh78xs
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.1906.02266
+  title: 'Sidewalk and Toronto: Critical Systems Heuristics and the Smart City'
+  authors:
+  - Curtis McCord
+  - Christoph Becker
+  publisher: arXiv
+  date: '2019-01-01'
+  link: https://doi.org/gsnt6w
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
