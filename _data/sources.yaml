@@ -139,4 +139,14 @@
 - id: doi:10.1109/EDOCW.2014.44
   type: paper
 
+- id: url:https://techotherwise.pubpub.org/cscw22
+  type: paper
+- id: https:techotherwise.pubpub.org/cscw20
+  type: paper
+- id: http:https://techotherwise.pubpub.org/pdc20
+  type: paper
+- id: url:http://benchmark-dp.org/caiwipres/
+  type: paper
+- id: url:https://digitalpreservationchallenges.wordpress.com/
+  type: paper
 
