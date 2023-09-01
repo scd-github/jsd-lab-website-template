@@ -10,12 +10,7 @@ nav:
 
 {% include section.html %}
 
-| Name        | Definition  | Source        |
-| :---        |    :---     |         :---  |
-| #### Assumptions | Facts about the project at the time of kickoff       | Insolvent, p.154  |
-| Paragraph   | Text        | And more      |
-
 >#### Assumptions
 >
 > Facts about the project at the time of kickoff.
-  > Source: Insolvent, p.154 
+> Source: Insolvent, p.154 
