@@ -1,5 +1,5 @@
 ---
-title: Devil's Dictionary
+title: 
 nav:
   order: 
   tooltip: 
