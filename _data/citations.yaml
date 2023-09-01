@@ -397,6 +397,46 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: url:https://www.derstandard.at/story/2000114033073/ein-neuer-kompass-fuer-die-digitale-zukunft
+  title: "Ein neuer Kompass f\xFCr die digitale Zukunft"
+  authors: []
+  publisher: DER STANDARD
+  date: ''
+  link: https://www.derstandard.at/story/2000114033073/ein-neuer-kompass-fuer-die-digitale-zukunft
+  type: article
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MS.2018.110154908
+  title: 'Software Engineering for Sustainability: Find the Leverage Points!'
+  authors:
+  - Birgit Penzenstadler
+  - Leticia Duboc
+  - Colin C. Venters
+  - Stefanie Betz
+  - Norbert Seyff
+  - Krzsztof Wnuk
+  - Ruzanna Chitchyan
+  - Steve M. Easterbrook
+  - Christoph Becker
+  publisher: IEEE Software
+  date: '2018-07-01'
+  link: https://doi.org/gd8r6q
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/asi.23807
+  title: 'Organizational assessment frameworks for digital preservation: A literature
+    review and mapping'
+  authors:
+  - Emily Maemura
+  - Nathan Moles
+  - Christoph Becker
+  publisher: Journal of the Association for Information Science and Technology
+  date: '2017-04-28'
+  link: https://doi.org/gbkz2n
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/RE.2018.00-23
   title: Crowd-Focused Semi-Automated Requirements Engineering for Evolution Towards
     Sustainability
