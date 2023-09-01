@@ -160,8 +160,17 @@
   type: paper
   
 - id: url:https://techotherwise.pubpub.org/cscw20
+  title: 'Contributions to the CSCW 2020 Workshop: Collective Organizing and Social Responsibility'
   type: paper
   date: '2020-10-15'
+  authors:
+  - Devansh Saxena
+  - Erhardt Graeff
+  - Shion Guha
+  - EunJeong Cheon
+  - Pedro Reynolds-Cuellar
+  - Dawn Walker
+  - Kenneth R. Fleischmann
   
 - id: url:https://techotherwise.pubpub.org/pdc20
   type: paper
