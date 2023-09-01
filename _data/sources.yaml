@@ -104,6 +104,20 @@
 - id: https:https://hdl.handle.net/11353/10.429553
   type: paper
 
+- id: doi:10.1007/978-3-319-12823-8_1
+  type: paper
+- id: doi:10.1007/978-3-319-12823-8_1
+  type: paper
+- id: doi:10.1109/JCDL.2014.6970207
+  type: paper
+- id: doi:10.1145/2467696.2467719  
+  type: paper
+- id: doi:10.1145/2480362.2480637
+  type: paper
+- id: https:https://hdl.handle.net/11353/10.378051
+  type: paper
+- id: https:https://hdl.handle.net/11353/10.378091
+  type: paper
 
 
 
