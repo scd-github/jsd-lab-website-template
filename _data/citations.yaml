@@ -628,3 +628,45 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: url:https://hdl.handle.net/11353/10.429621
+  title: Benchmarking Forum
+  authors:
+  - Kresimir Duretec
+  - Artur Kulmukhametov
+  - Andreas Rauber
+  - Christoph Becker
+  publisher: Proceedings of the 12th International Conference on Digital Preservation
+  date: ''
+  link: https://phaidra.univie.ac.at/detail/o:429621
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:http://hdl.handle.net/2142/73794
+  title: "ICT for Sustainability \u2014 Current and future research directions"
+  authors:
+  - Birgit Penzenstadler
+  - Debra Richardson
+  - Bill Tomlinson
+  - Kenneth R. Fleischmann
+  - Christoph Becker
+  - Lisa Nathan
+  - Eli Blevis
+  - Six Silberman
+  - Beth Karlin
+  - Juliet Norton
+  - Ankita Raturi
+  publisher: iConference 2015 Proceedings
+  date: '2015-03-15'
+  link: https://hdl.handle.net/2142/73794
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://ppig.org/papers/2020-ppig-31st-becker/
+  title: Psychology of Programming Interest Group
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://ppig.org/papers/2020-ppig-31st-becker/
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
