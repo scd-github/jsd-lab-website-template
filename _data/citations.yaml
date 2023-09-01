@@ -810,3 +810,19 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.21428/93b2c832.e0100a3f
+  title: Defund Big Tech, Refund Community
+  authors:
+  - Wolmet Barendregt
+  - Christoph Becker
+  - EunJeong Cheon
+  - Andrew Clement
+  - "Pedro Reynolds-Cu\xE9llar"
+  - Douglas Schuler
+  - Lucy Suchman
+  publisher: Tech Otherwise
+  date: '2021-02-05'
+  link: https://doi.org/gsnvhw
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
