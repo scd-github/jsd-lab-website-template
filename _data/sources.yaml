@@ -158,10 +158,6 @@
   
 - id: doi:10.1109/EDOCW.2014.44
   type: paper
-
-- id: url:https://techotherwise.pubpub.org/cscw22
-  type: paper
-  date: '2022-11-06'
   
 - id: url:https://techotherwise.pubpub.org/cscw20
   type: paper
