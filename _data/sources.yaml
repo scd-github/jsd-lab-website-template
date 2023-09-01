@@ -80,6 +80,15 @@
 - id: doi:10.48550/arXiv.1906.02266
   type: paper
 
+- id: url:https://www.derstandard.at/story/2000114033073/ein-neuer-kompass-fuer-die-digitale-zukunft
+  type: article
+
+- id: doi:10.1109/MS.2018.110154908
+  type: paper
+
+- id: doi:10.1002/asi.23807
+  type: paper
+
 - id: doi:10.1109/RE.2018.00-23
   type: paper
 - id: doi:10.1109/RE.2018.00038
