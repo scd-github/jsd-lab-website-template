@@ -2,18 +2,7 @@
 title: Home
 image_sliders:
   - slider2
-carousels:
-  - images:
-    - image: images/limits 2023.png
-      url: "https://limits.pubpub.org/pub/iw8v1y2m/release/1"
-    - image: images/curbcut1.png
-      url: "https://toronto.curbcut.ca/"
-    - image: images/insolve.png
-      url: insolvent
 ---
-
-{% include carousel.html width="400" unit="%" duration="7" number="1" %}
-{% include section.html %}
 
 {% include section.html background="images/green.png" dark=true %}
 
