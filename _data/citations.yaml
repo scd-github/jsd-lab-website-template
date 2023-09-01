@@ -397,3 +397,82 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/RE.2018.00-23
+  title: Crowd-Focused Semi-Automated Requirements Engineering for Evolution Towards
+    Sustainability
+  authors:
+  - Norbert Seyff
+  - Stefanie Betz
+  - Iris Groher
+  - Melanie Stade
+  - Ruzanna Chitchyan
+  - Leticia Duboc
+  - Birgit Penzenstadler
+  - Colin Venters
+  - Christoph Becker
+  publisher: 2018 IEEE 26th International Requirements Engineering Conference (RE)
+  date: '2018-08-01'
+  link: https://doi.org/gsnt6z
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/RE.2018.00038
+  title: Tailoring Requirements Negotiation to Sustainability
+  authors:
+  - Norbert Seyff
+  - Stefanie Betz
+  - Leticia Duboc
+  - Colin Venters
+  - Christoph Becker
+  - Ruzanna Chitchyan
+  - Birgit Penzenstadler
+  - Markus Nobauer
+  publisher: 2018 IEEE 26th International Requirements Engineering Conference (RE)
+  date: '2018-08-01'
+  link: https://doi.org/gsnt62
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3194164.3194171
+  title: Trade-off decisions across time in technical debt management
+  authors:
+  - Christoph Becker
+  - Ruzanna Chitchyan
+  - Stefanie Betz
+  - Curtis McCord
+  publisher: Proceedings of the 2018 International Conference on Technical Debt
+  date: '2018-05-27'
+  link: https://doi.org/gsnt63
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3183377.3183382
+  title: Everything is INTERRELATED
+  authors:
+  - Birgit Penzenstadler
+  - Stefanie Betz
+  - Colin C. Venters
+  - Ruzanna Chitchyan
+  - Jari Porras
+  - Norbert Seyff
+  - Leticia Duboc
+  - Christoph Becker
+  publisher: 'Proceedings of the 40th International Conference on Software Engineering:
+    Software Engineering Education and Training'
+  date: '2018-05-27'
+  link: https://doi.org/gsnt64
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JCDL.2017.7991565
+  title: A Text Extraction Software Benchmark Based on a Synthesized Dataset
+  authors:
+  - Kresimir Duretec
+  - Andreas Rauber
+  - Christoph Becker
+  publisher: 2017 ACM/IEEE Joint Conference on Digital Libraries (JCDL)
+  date: '2017-06-01'
+  link: https://doi.org/ghchxn
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
