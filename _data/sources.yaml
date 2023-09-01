@@ -62,5 +62,10 @@
 - id: doi:10.1108/OCLC-06-2014-0025
   type: paper
 
+- id: doi:10.1145/3500868.3559399
+  type: paper
+
+- id: doi:10.1145/3406865.3418593
+  type: paper
 
 
