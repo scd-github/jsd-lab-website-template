@@ -765,15 +765,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: url:https://techotherwise.pubpub.org/cscw22
-  title: "CSCW '22 \xB7 Tech Otherwise"
-  authors: []
-  publisher: Tech Otherwise
-  date: '2022-11-06'
-  link: https://techotherwise.pubpub.org/cscw22
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: url:https://techotherwise.pubpub.org/cscw20
   title: "CSCW '20 \xB7 Tech Otherwise"
   authors: []
