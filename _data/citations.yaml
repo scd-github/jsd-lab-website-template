@@ -557,3 +557,74 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1007/978-3-319-12823-8_1
+  title: 'Content Profiling for Preservation: Improving Scale, Depth and Quality'
+  authors:
+  - Artur Kulmukhametov
+  - Christoph Becker
+  publisher: "The Emergence of Digital Libraries \u2013 Research and Practices"
+  date: '2014-01-01'
+  link: https://doi.org/gsnt8j
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JCDL.2014.6970207
+  title: The SCAPE preservation lifecycle
+  authors:
+  - Kresimir Duretec
+  - Artur Kulmukhametov
+  - Michael Kraxner
+  - Markus Plangg
+  - Christoph Becker
+  - Luis Faria
+  publisher: IEEE/ACM Joint Conference on Digital Libraries
+  date: '2014-09-01'
+  link: https://doi.org/gsnt8k
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/2467696.2467719
+  title: Free benchmark corpora for preservation experiments
+  authors:
+  - Christoph Becker
+  - Kresimir Duretec
+  publisher: Proceedings of the 13th ACM/IEEE-CS joint conference on Digital libraries
+  date: '2013-07-22'
+  link: https://doi.org/gsnt8m
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/2480362.2480637
+  title: Evaluating a process for developing a capability maturity model
+  authors:
+  - "Diogo Proen\xE7a"
+  - Ricardo Vieira
+  - "Gon\xE7alo Antunes"
+  - Miguel Mira da Silva
+  - "Jos\xE9 Borbinha"
+  - Christoph Becker
+  - Hannes Kulovits
+  publisher: Proceedings of the 28th Annual ACM Symposium on Applied Computing
+  date: '2013-03-18'
+  link: https://doi.org/gsnt8n
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https:https://hdl.handle.net/11353/10.378051
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https:https://hdl.handle.net/11353/10.378051
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https:https://hdl.handle.net/11353/10.378091
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https:https://hdl.handle.net/11353/10.378091
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
