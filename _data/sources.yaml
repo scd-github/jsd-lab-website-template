@@ -126,5 +126,17 @@
 - id: url:https://ppig.org/papers/2020-ppig-31st-becker/
   type: paper
 
+- id: doi:10.1109/CHASE.2017.6
+  type: paper
+- id: doi:10.1109/BigData.2016.7840982
+  type: paper
+- id: url:http://ceur-ws.org/Vol-1686/
+  type: paper
+- id: url:http://ceur-ws.org/Vol-1416/
+  type: paper
+- id: url:http://eprints.hud.ac.uk/id/eprint/24945/
+  type: paper
+- id: doi:10.1109/EDOCW.2014.44
+  type: paper
 
 
