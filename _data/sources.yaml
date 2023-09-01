@@ -99,10 +99,14 @@
 
 - id: doi:10.1109/ICSE.2015.179
   type: paper
+  
 - id: url:https://hdl.handle.net/11353/10.429547
   type: paper
+  date: '2015-04-16'
+  
 - id: url:https://hdl.handle.net/11353/10.429553
   type: paper
+  date: '2015-04-16'
 
 - id: doi:10.1007/978-3-319-12823-8_1
   type: paper
@@ -114,40 +118,64 @@
   type: paper
 - id: doi:10.1145/2480362.2480637
   type: paper
+  
 - id: url:https://hdl.handle.net/11353/10.378051
   type: paper
+  date: '2013-01-01'
+  
 - id: url:https://hdl.handle.net/11353/10.378091
   type: paper
+  date: '2013-01-01'
 
 - id: url:https://hdl.handle.net/11353/10.429621  
   type: paper
   date: '2015-06-03'
+  
 - id: url:http://hdl.handle.net/2142/73794
   type: paper
+  date: '2015-03-15'
+  
 - id: url:https://ppig.org/papers/2020-ppig-31st-becker/
   type: paper
+  date: '2020-01-01'
 
 - id: doi:10.1109/CHASE.2017.6
   type: paper
 - id: doi:10.1109/BigData.2016.7840982
   type: paper
+  
 - id: url:http://ceur-ws.org/Vol-1686/
   type: paper
+  date: '2016-09-12'
+  
 - id: url:http://ceur-ws.org/Vol-1416/
   type: paper
+  date: '2015-08-24'
+  
 - id: url:http://eprints.hud.ac.uk/id/eprint/24945/
   type: paper
+  date: '2015-07-13'
+  
 - id: doi:10.1109/EDOCW.2014.44
   type: paper
 
 - id: url:https://techotherwise.pubpub.org/cscw22
   type: paper
+  date: '2022-11-06'
+  
 - id: url:https://techotherwise.pubpub.org/cscw20
   type: paper
+  date: '2020-10-15'
+  
 - id: url:https://techotherwise.pubpub.org/pdc20
   type: paper
+  date: '2020-05-20'
+  
 - id: url:http://benchmark-dp.org/caiwipres/
   type: paper
+  date: '2020-01-01'
+  
 - id: url:https://digitalpreservationchallenges.wordpress.com/
   type: paper
+  date: '2013-08-24'
 
