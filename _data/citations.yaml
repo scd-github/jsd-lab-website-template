@@ -547,7 +547,7 @@
   - Andreas Rauber
   - Christoph Becker
   publisher: Proceedings of the 12th International Conference on Digital Preservation
-  date: ''
+  date: '2015-04-16'
   link: https://phaidra.univie.ac.at/detail/o:429547
   type: paper
   plugin: sources.py
@@ -559,7 +559,7 @@
   - Nathan Moles
   - Christoph Becker
   publisher: Proceedings of the 12th International Conference on Digital Preservation
-  date: ''
+  date: '2015-04-16'
   link: https://phaidra.univie.ac.at/detail/o:429553
   type: paper
   plugin: sources.py
@@ -627,7 +627,7 @@
   - Christoph Becker
   - Sean Bechhofer
   publisher: ''
-  date: ''
+  date: '2013-01-01'
   link: https://phaidra.univie.ac.at/detail/o:378051
   type: paper
   plugin: sources.py
@@ -641,7 +641,7 @@
   - Christoph Becker
   - "Lu\xEDs Faria"
   publisher: ''
-  date: ''
+  date: '2013-01-01'
   link: https://phaidra.univie.ac.at/detail/o:378091
   type: paper
   plugin: sources.py
@@ -683,7 +683,7 @@
   title: Psychology of Programming Interest Group
   authors: []
   publisher: ''
-  date: ''
+  date: '2020-01-01'
   link: https://ppig.org/papers/2020-ppig-31st-becker/
   type: paper
   plugin: sources.py
@@ -719,7 +719,7 @@
     Science: Practice and Experinces'
   authors: []
   publisher: ''
-  date: ''
+  date: '2016-09-12'
   link: https://ceur-ws.org/Vol-1686/
   type: paper
   plugin: sources.py
@@ -729,7 +729,7 @@
     Systems 2015
   authors: []
   publisher: ''
-  date: ''
+  date: '2015-08-24'
   link: https://ceur-ws.org/Vol-1416/
   type: paper
   plugin: sources.py
@@ -747,7 +747,7 @@
   - Guillermo Rodriguez-Navas
   - Norbert Seyff
   publisher: ''
-  date: '2015-07-01'
+  date: '2015-07-13'
   link: https://openlab.ncl.ac.uk/uk-shci/
   type: paper
   plugin: sources.py
@@ -769,7 +769,7 @@
   title: "CSCW '22 \xB7 Tech Otherwise"
   authors: []
   publisher: Tech Otherwise
-  date: ''
+  date: '2022-11-06'
   link: https://techotherwise.pubpub.org/cscw22
   type: paper
   plugin: sources.py
@@ -778,7 +778,7 @@
   title: "CSCW '20 \xB7 Tech Otherwise"
   authors: []
   publisher: Tech Otherwise
-  date: ''
+  date: '2020-10-15'
   link: https://techotherwise.pubpub.org/cscw20
   type: paper
   plugin: sources.py
@@ -787,7 +787,7 @@
   title: "PDC '20 \xB7 Tech Otherwise"
   authors: []
   publisher: Tech Otherwise
-  date: ''
+  date: '2020-05-20'
   link: https://techotherwise.pubpub.org/pdc20
   type: paper
   plugin: sources.py
@@ -796,7 +796,7 @@
   title: benchmark dp
   authors: []
   publisher: ''
-  date: ''
+  date: '2020-01-01'
   link: http://benchmark-dp.org/
   type: paper
   plugin: sources.py
@@ -805,7 +805,7 @@
   title: digital preservation challenges
   authors: []
   publisher: digital preservation challenges
-  date: ''
+  date: '2013-08-24'
   link: https://digitalpreservationchallenges.wordpress.com/
   type: paper
   plugin: sources.py
