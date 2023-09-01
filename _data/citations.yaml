@@ -670,3 +670,80 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/CHASE.2017.6
+  title: 'Intertemporal Choice: Decision Making and Time in Software Engineering'
+  authors:
+  - Christoph Becker
+  - Dawn Walker
+  - Curtis McCord
+  publisher: 2017 IEEE/ACM 10th International Workshop on Cooperative and Human Aspects
+    of Software Engineering (CHASE)
+  date: '2017-05-01'
+  link: https://doi.org/cgbh
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/BigData.2016.7840982
+  title: Understanding computational web archives research methods using research
+    objects
+  authors:
+  - Emily Maemura
+  - Christoph Becker
+  - Ian Milligan
+  publisher: 2016 IEEE International Conference on Big Data (Big Data)
+  date: '2016-12-01'
+  link: https://doi.org/gsnt9p
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:http://ceur-ws.org/Vol-1686/
+  title: 'CEUR-WS.org/Vol-1686 - WSSSPE: 4th Workshop on Sustainable Software for
+    Science: Practice and Experinces'
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://ceur-ws.org/Vol-1686/
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:http://ceur-ws.org/Vol-1416/
+  title: CEUR-WS.org/Vol-1416 - Workshop on Requirements Engineering for Sustainable
+    Systems 2015
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://ceur-ws.org/Vol-1416/
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:http://eprints.hud.ac.uk/id/eprint/24945/
+  title: 'Mind the Gap: Bridging the Sustainable Software Systems Research Divide'
+  authors:
+  - Colin Venters
+  - Christoph Becker
+  - Stefanie Betz
+  - Ruzanna Chitchyan
+  - Leticia Duboc
+  - Steve Easterbrook
+  - Birgit Penzenstadler
+  - Guillermo Rodriguez-Navas
+  - Norbert Seyff
+  publisher: ''
+  date: '2015-07-01'
+  link: https://openlab.ncl.ac.uk/uk-shci/
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/EDOCW.2014.44
+  title: A Traceable Maturity Assessment Method Based on Enterprise Architecture Modelling
+  authors:
+  - Ricardo Vieira
+  - Elsa Cardoso
+  - Christoph Becker
+  publisher: 2014 IEEE 18th International Enterprise Distributed Object Computing
+    Conference Workshops and Demonstrations
+  date: '2014-09-01'
+  link: https://doi.org/gsnt9s
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
