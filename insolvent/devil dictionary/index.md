@@ -80,11 +80,6 @@ nav:
 > That form of deductive reasoning which can be encoded and computed.
 >> Source: Insolvent, p.179
 
->#### Rationality, n.
->
-> That form of deductive reasoning which can be encoded and computed.
->> Source: Insolvent, p.179
-
 >#### Requirements Engineering, n.
 >
 > The social practice of turning wet, interesting issues such as human values, politics and moral decisions into dry, complicated diagrams (models) that create the illusion that the work to be done is solidly understood.
