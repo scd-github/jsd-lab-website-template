@@ -99,9 +99,9 @@
 
 - id: doi:10.1109/ICSE.2015.179
   type: paper
-- id: https:https://hdl.handle.net/11353/10.429547
+- id: url:https://hdl.handle.net/11353/10.429547
   type: paper
-- id: https:https://hdl.handle.net/11353/10.429553
+- id: url:https://hdl.handle.net/11353/10.429553
   type: paper
 
 - id: doi:10.1007/978-3-319-12823-8_1
@@ -114,13 +114,14 @@
   type: paper
 - id: doi:10.1145/2480362.2480637
   type: paper
-- id: https:https://hdl.handle.net/11353/10.378051
+- id: url:https://hdl.handle.net/11353/10.378051
   type: paper
-- id: https:https://hdl.handle.net/11353/10.378091
+- id: url:https://hdl.handle.net/11353/10.378091
   type: paper
 
 - id: url:https://hdl.handle.net/11353/10.429621  
   type: paper
+  date: '2015-06-03'
 - id: url:http://hdl.handle.net/2142/73794
   type: paper
 - id: url:https://ppig.org/papers/2020-ppig-31st-becker/
@@ -141,9 +142,9 @@
 
 - id: url:https://techotherwise.pubpub.org/cscw22
   type: paper
-- id: https:techotherwise.pubpub.org/cscw20
+- id: url:https://techotherwise.pubpub.org/cscw20
   type: paper
-- id: http:https://techotherwise.pubpub.org/pdc20
+- id: url:https://techotherwise.pubpub.org/pdc20
   type: paper
 - id: url:http://benchmark-dp.org/caiwipres/
   type: paper
