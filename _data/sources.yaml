@@ -119,6 +119,12 @@
 - id: https:https://hdl.handle.net/11353/10.378091
   type: paper
 
+- id: url:https://hdl.handle.net/11353/10.429621  
+  type: paper
+- id: url:http://hdl.handle.net/2142/73794
+  type: paper
+- id: url:https://ppig.org/papers/2020-ppig-31st-becker/
+  type: paper
 
 
 
