@@ -747,3 +747,48 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: url:https://techotherwise.pubpub.org/cscw22
+  title: "CSCW '22 \xB7 Tech Otherwise"
+  authors: []
+  publisher: Tech Otherwise
+  date: ''
+  link: https://techotherwise.pubpub.org/cscw22
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: https:techotherwise.pubpub.org/cscw20
+  title: "CSCW '20 \xB7 Tech Otherwise"
+  authors: []
+  publisher: Tech Otherwise
+  date: ''
+  link: https://techotherwise.pubpub.org/cscw20
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: http:https://techotherwise.pubpub.org/pdc20
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: http:https://techotherwise.pubpub.org/pdc20
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:http://benchmark-dp.org/caiwipres/
+  title: benchmark dp
+  authors: []
+  publisher: ''
+  date: ''
+  link: http://benchmark-dp.org/
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://digitalpreservationchallenges.wordpress.com/
+  title: digital preservation challenges
+  authors: []
+  publisher: digital preservation challenges
+  date: ''
+  link: https://digitalpreservationchallenges.wordpress.com/
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
