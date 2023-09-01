@@ -12,7 +12,7 @@ nav:
 
 >#### Assumptions, n. pl.
 >
-> Facts about the project at the time of kickoff.
+> [Facts](https://scd-github.github.io/jsd-lab-website-template/insolvent/devil%20dictionary/#facts-n-pl) about the project at the time of [kickoff](https://scd-github.github.io/jsd-lab-website-template/insolvent/devil%20dictionary/#kick-off-n).
 >> Source: Insolvent, p.154 
 
 >#### Conflict, n.
