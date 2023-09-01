@@ -49,6 +49,7 @@ Becker positions the role of information technology and computing in environment
 {% include section.html %}
 ## Devil's Dictionary
 
+[####]: #
 {%
   include button.html
   type=""
@@ -59,7 +60,7 @@ Becker positions the role of information technology and computing in environment
 {% include section.html %}
 ## Reading and Discussion Guide
 
-Coming soon!
+#### Coming soon!
 
 {% include section.html %}
 ## Endorsements
