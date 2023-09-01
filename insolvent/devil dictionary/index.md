@@ -13,7 +13,7 @@ nav:
 >#### Assumptions, n. pl.
 >
 > Facts about the project at the time of kickoff.
->> <br><br> Source: Insolvent, p.154 
+>> Source: Insolvent, p.154 
 
 >#### Conflict, n.
 >
@@ -24,3 +24,23 @@ nav:
 >
 > Claims made about the environment of technology design for which those who make them forgot to question where they came from, how they came about, which values they embody, whose values these are, whose facts they are, and whose interest that serves.
 >> Source: Insolvent, p.154 
+
+>#### Fix, n. & v.
+>
+> The source of tomorrow’s problems.
+>> Source: Insolvent, p.13
+
+>#### Goal Modeling, n.
+>
+> The illusion that everything that matters can be represented as an instrumental achievement to be met; the delusion that anything that can not be represented as an instrumental achievement to be met cannot possibly matter. Both are common in requirements engineering.
+>> Source: Insolvent, p.233
+
+>#### Human, n.
+>
+> Annoying reminders of the real world.
+>> Source: Insolvent, p.102
+
+>#### Innovate, v.
+>
+> To do onto other people’s jobs as you would not have them do unto yours
+>> Source: (not mentioned in Insolvent) Inspired by the [Golden Rule](https://www.britannica.com/topic/Golden-Rule) 
