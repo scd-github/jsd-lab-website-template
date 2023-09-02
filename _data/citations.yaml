@@ -93,6 +93,252 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: url:https://www.derstandard.at/story/2000114033073/ein-neuer-kompass-fuer-die-digitale-zukunft
+  title: "Ein neuer Kompass f\xFCr die digitale Zukunft"
+  authors: []
+  publisher: DER STANDARD
+  date: ''
+  link: https://www.derstandard.at/story/2000114033073/ein-neuer-kompass-fuer-die-digitale-zukunft
+  type: article
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://hdl.handle.net/11353/10.429547
+  title: Benchmarks for Digital Preservation Tools
+  authors:
+  - Kresimir Duretec
+  - Artur Kulmukhametov
+  - Andreas Rauber
+  - Christoph Becker
+  publisher: Proceedings of the 12th International Conference on Digital Preservation
+  date: '2015-04-16'
+  link: https://phaidra.univie.ac.at/detail/o:429547
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://hdl.handle.net/11353/10.429553
+  title: A Survey of Organizational Assessment Frameworks in Digital Preservation
+  authors:
+  - Emily Maemura
+  - Nathan Moles
+  - Christoph Becker
+  publisher: Proceedings of the 12th International Conference on Digital Preservation
+  date: '2015-04-16'
+  link: https://phaidra.univie.ac.at/detail/o:429553
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://hdl.handle.net/11353/10.378051
+  title: 'Open Preservation Data: Controlled vocabularies and ontologies for preservation
+    ecosystems: Paper - iPres 2013 - Lisbon'
+  authors:
+  - Hannes Kulovits
+  - Michael Kraxner
+  - Markus Plangg
+  - Christoph Becker
+  - Sean Bechhofer
+  publisher: 10th International Conference on Preservation of Digital Objects (IPRES
+    2013)
+  date: '2013-01-01'
+  link: https://phaidra.univie.ac.at/detail/o:378051
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://hdl.handle.net/11353/10.378091
+  title: 'The SCAPE Planning and Watch suite: Paper - iPres 2013 - Lisbon'
+  authors:
+  - Michael Kraxner
+  - Markus Plangg
+  - Kresimir Duretec
+  - Christoph Becker
+  - "Lu\xEDs Faria"
+  publisher: 10th International Conference on Preservation of Digital Objects (IPRES
+    2013)
+  date: '2013-01-01'
+  link: https://phaidra.univie.ac.at/detail/o:378091
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://hdl.handle.net/11353/10.429621
+  title: Benchmarking Forum
+  authors:
+  - Kresimir Duretec
+  - Artur Kulmukhametov
+  - Andreas Rauber
+  - Christoph Becker
+  publisher: Proceedings of the 12th International Conference on Digital Preservation
+  date: '2015-06-03'
+  link: https://phaidra.univie.ac.at/detail/o:429621
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:http://hdl.handle.net/2142/73794
+  title: "ICT for Sustainability \u2014 Current and future research directions"
+  authors:
+  - Birgit Penzenstadler
+  - Debra Richardson
+  - Bill Tomlinson
+  - Kenneth R. Fleischmann
+  - Christoph Becker
+  - Lisa Nathan
+  - Eli Blevis
+  - Six Silberman
+  - Beth Karlin
+  - Juliet Norton
+  - Ankita Raturi
+  publisher: iConference 2015 Proceedings
+  date: '2015-03-15'
+  link: https://hdl.handle.net/2142/73794
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://ppig.org/papers/2020-ppig-31st-becker/
+  title: Undecided? A Board Game to study Intertemporal choices in software projects
+  authors:
+  - Christoph Becker
+  - Tara Tsang
+  - Rachel Booth
+  - Enning Zhang
+  - Fabian Fagerholm
+  publisher: Proceedings of PPIG 2020 The Psychology of Programming IG workshop
+  date: '2020-01-01'
+  link: https://ppig.org/papers/2020-ppig-31st-becker/
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:http://ceur-ws.org/Vol-1686/
+  title: 'Lightning talk: I solemnly pledge: A manifesto for personal responsibility
+    in the engineering of academic software'
+  authors:
+  - Alice Allen
+  - Cecilia Aragon
+  - Christoph Becker
+  - Jeffrey Carver
+  - Andrei Chis
+  - Benoit Combemale
+  - Mike Croucher
+  - Kevin Crowston
+  - Daniel Garijo
+  - Ashish Gehani
+  - Carole Goble
+  - Robert Haines
+  - Robert Hirschfeld
+  - James Howison
+  - Kathryn Huff
+  - Caroline Jay
+  - Daniel S. Katz
+  - Claude Kirchner
+  - Kateryna Kuksenok
+  - "Ralf L\xE4mmel"
+  - Oscar Nierstrasz
+  - Matt Turk
+  - Rob van Nieuwpoort
+  - Matthew Vaughn
+  - Jurgen Vinju
+  publisher: Proceedings of the 4th Workshop on Sustainable Software for Science Practice
+    and Experiences (WSSSPE4), CEUR Workshop Proceedings, vol. 1686
+  date: '2016-09-12'
+  link: https://ceur-ws.org/Vol-1686/
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:http://ceur-ws.org/Vol-1416/
+  title: 'Sustainability debt: A metaphor to support sustainability design decisions'
+  authors:
+  - Stefanie Betz
+  - Christoph Becker
+  - Ruzanna Chitchyan
+  - Leticia Duboc
+  - Steve M. Easterbrook
+  - Birgit Penzenstadler
+  - Norbert Seyff
+  - Colin C. Venters
+  publisher: Proceedings of the 4th International Workshop on Requirements Engineering
+    for Sustainable Systems Co-Located with the 23rd IEEE International Requirements
+    Engineering Conference (RE 2015)
+  date: '2015-08-24'
+  link: https://ceur-ws.org/Vol-1416/
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:http://eprints.hud.ac.uk/id/eprint/24945/
+  title: 'Mind the Gap: Bridging the Sustainable Software Systems Research Divide'
+  authors:
+  - Colin Venters
+  - Christoph Becker
+  - Stefanie Betz
+  - Ruzanna Chitchyan
+  - Leticia Duboc
+  - Steve Easterbrook
+  - Birgit Penzenstadler
+  - Guillermo Rodriguez-Navas
+  - Norbert Seyff
+  publisher: UK-SHCI Workshop on Sustainable HCI in the UK, Lincoln, UK
+  date: '2015-07-13'
+  link: https://openlab.ncl.ac.uk/uk-shci/
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://techotherwise.pubpub.org/cscw20
+  title: 'Contributions to the CSCW 2020 Workshop: Collective Organizing and Social
+    Responsibility'
+  authors:
+  - Devansh Saxena
+  - Erhardt Graeff
+  - Shion Guha
+  - EunJeong Cheon
+  - "Pedro Reynolds-Cu\xE9llar"
+  - Dawn Walker
+  - Kenneth R. Fleischmann
+  publisher: Tech Otherwise
+  date: '2020-10-15'
+  link: https://techotherwise.pubpub.org/cscw20
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://techotherwise.pubpub.org/pdc20
+  title: 'Proceedings of the PDC 2020 Interactive Workshop: Computing Professionals
+    for Social Responsbility: The Past, Present and Future Values of Participatory
+    Design'
+  authors:
+  - Ann Light
+  - Victoria Palacin
+  - Dawn Walker
+  - Christopher Frauenberger
+  - Rachel Charlotte Smith
+  - Syed Ishtiaque Ahmed
+  - "Pedro Reynolds-Cu\xE9llar"
+  - David Nemer
+  publisher: Tech Otherwise
+  date: '2020-05-20'
+  link: https://techotherwise.pubpub.org/pdc20
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:http://benchmark-dp.org/caiwipres/
+  title: "Proceedings of the Capability Assessment and Improvement Workshop (CAIW\u2019\
+    2013) at the International Conference on Digital Preservation (IPRES)"
+  authors:
+  - Christoph Becker
+  - A. Caetano
+  publisher: ''
+  date: '2020-01-01'
+  link: http://benchmark-dp.org/
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://digitalpreservationchallenges.wordpress.com/
+  title: Open Research Challenges in Digital Preservation
+  authors:
+  - Christoph Becker
+  - Andreas Rauber
+  - Christopher (Cal) Lee
+  publisher: Proceedings of ORC 2013 at the International Conference on Digital Preservation
+    (IPRES)
+  date: '2013-08-24'
+  link: https://digitalpreservationchallenges.wordpress.com/
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.infsof.2023.107163
   title: "It\u2019s about time: How to study intertemporal choice in systems design"
   authors:
@@ -397,15 +643,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: url:https://www.derstandard.at/story/2000114033073/ein-neuer-kompass-fuer-die-digitale-zukunft
-  title: "Ein neuer Kompass f\xFCr die digitale Zukunft"
-  authors: []
-  publisher: DER STANDARD
-  date: ''
-  link: https://www.derstandard.at/story/2000114033073/ein-neuer-kompass-fuer-die-digitale-zukunft
-  type: article
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/MS.2018.110154908
   title: 'Software Engineering for Sustainability: Find the Leverage Points!'
   authors:
@@ -579,31 +816,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: url:https://hdl.handle.net/11353/10.429547
-  title: Benchmarks for Digital Preservation Tools
-  authors:
-  - Kresimir Duretec
-  - Artur Kulmukhametov
-  - Andreas Rauber
-  - Christoph Becker
-  publisher: Proceedings of the 12th International Conference on Digital Preservation
-  date: '2015-04-16'
-  link: https://phaidra.univie.ac.at/detail/o:429547
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: url:https://hdl.handle.net/11353/10.429553
-  title: A Survey of Organizational Assessment Frameworks in Digital Preservation
-  authors:
-  - Emily Maemura
-  - Nathan Moles
-  - Christoph Becker
-  publisher: Proceedings of the 12th International Conference on Digital Preservation
-  date: '2015-04-16'
-  link: https://phaidra.univie.ac.at/detail/o:429553
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1007/978-3-319-12823-8_1
   title: 'Content Profiling for Preservation: Improving Scale, Depth and Quality'
   authors:
@@ -657,82 +869,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: url:https://hdl.handle.net/11353/10.378051
-  title: 'Open Preservation Data: Controlled vocabularies and ontologies for preservation
-    ecosystems: Paper - iPres 2013 - Lisbon'
-  authors:
-  - Hannes Kulovits
-  - Michael Kraxner
-  - Markus Plangg
-  - Christoph Becker
-  - Sean Bechhofer
-  publisher: ''
-  date: '2013-01-01'
-  link: https://phaidra.univie.ac.at/detail/o:378051
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: url:https://hdl.handle.net/11353/10.378091
-  title: 'The SCAPE Planning and Watch suite: Paper - iPres 2013 - Lisbon'
-  authors:
-  - Michael Kraxner
-  - Markus Plangg
-  - Kresimir Duretec
-  - Christoph Becker
-  - "Lu\xEDs Faria"
-  publisher: ''
-  date: '2013-01-01'
-  link: https://phaidra.univie.ac.at/detail/o:378091
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: url:https://hdl.handle.net/11353/10.429621
-  title: Benchmarking Forum
-  authors:
-  - Kresimir Duretec
-  - Artur Kulmukhametov
-  - Andreas Rauber
-  - Christoph Becker
-  publisher: Proceedings of the 12th International Conference on Digital Preservation
-  date: '2015-06-03'
-  link: https://phaidra.univie.ac.at/detail/o:429621
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: url:http://hdl.handle.net/2142/73794
-  title: "ICT for Sustainability \u2014 Current and future research directions"
-  authors:
-  - Birgit Penzenstadler
-  - Debra Richardson
-  - Bill Tomlinson
-  - Kenneth R. Fleischmann
-  - Christoph Becker
-  - Lisa Nathan
-  - Eli Blevis
-  - Six Silberman
-  - Beth Karlin
-  - Juliet Norton
-  - Ankita Raturi
-  publisher: iConference 2015 Proceedings
-  date: '2015-03-15'
-  link: https://hdl.handle.net/2142/73794
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: url:https://ppig.org/papers/2020-ppig-31st-becker/
-  title: Undecided? A Board Game to study Intertemporal choices in software projects
-  authors:
-  - Christoph Becker
-  - Tara Tsang
-  - Rachel Booth
-  - Enning Zhang
-  - Fabian Fagerholm
-  publisher: Proceedings of PPIG 2020 The Psychology of Programming IG workshop
-  date: '2020-01-01'
-  link: https://ppig.org/papers/2020-ppig-31st-becker/
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/CHASE.2017.6
   title: 'Intertemporal Choice: Decision Making and Time in Software Engineering'
   authors:
@@ -759,79 +895,6 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: url:http://ceur-ws.org/Vol-1686/
-  title: 'Lightning talk: I solemnly pledge: A manifesto for personal responsibility
-    in the engineering of academic software'
-  authors:
-  - Alice Allen
-  - Cecilia Aragon
-  - Christoph Becker
-  - Jeffrey Carver
-  - Andrei Chis
-  - Benoit Combemale
-  - Mike Croucher
-  - Kevin Crowston
-  - Daniel Garijo
-  - Ashish Gehani
-  - Carole Goble
-  - Robert Haines
-  - Robert Hirschfeld
-  - James Howison
-  - Kathryn Huff
-  - Caroline Jay
-  - Daniel S. Katz
-  - Claude Kirchner
-  - Kateryna Kuksenok
-  - "Ralf L\xE4mmel"
-  - Oscar Nierstrasz
-  - Matt Turk
-  - Rob van Nieuwpoort
-  - Matthew Vaughn
-  - Jurgen Vinju
-  publisher: Proceedings of the 4th Workshop on Sustainable Software for Science Practice
-    and Experiences (WSSSPE4), CEUR Workshop Proceedings, vol. 1686
-  date: '2016-09-12'
-  link: https://ceur-ws.org/Vol-1686/
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: url:http://ceur-ws.org/Vol-1416/
-  title: 'Sustainability debt: A metaphor to support sustainability design decisions'
-  authors:
-  - Stefanie Betz
-  - Christoph Becker
-  - Ruzanna Chitchyan
-  - Leticia Duboc
-  - Steve M. Easterbrook
-  - Birgit Penzenstadler
-  - Norbert Seyff
-  - Colin C. Venters
-  publisher: Proceedings of the 4th International Workshop on Requirements Engineering
-    for Sustainable Systems Co-Located with the 23rd IEEE International Requirements
-    Engineering Conference (RE 2015)
-  date: '2015-08-24'
-  link: https://ceur-ws.org/Vol-1416/
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: url:http://eprints.hud.ac.uk/id/eprint/24945/
-  title: 'Mind the Gap: Bridging the Sustainable Software Systems Research Divide'
-  authors:
-  - Colin Venters
-  - Christoph Becker
-  - Stefanie Betz
-  - Ruzanna Chitchyan
-  - Leticia Duboc
-  - Steve Easterbrook
-  - Birgit Penzenstadler
-  - Guillermo Rodriguez-Navas
-  - Norbert Seyff
-  publisher: UK-SHCI Workshop on Sustainable HCI in the UK, Lincoln, UK
-  date: '2015-07-13'
-  link: https://openlab.ncl.ac.uk/uk-shci/
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/EDOCW.2014.44
   title: A Traceable Maturity Assessment Method Based on Enterprise Architecture Modelling
   authors:
@@ -842,63 +905,6 @@
     Conference Workshops and Demonstrations
   date: '2014-09-01'
   link: https://doi.org/gsnt9s
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: url:https://techotherwise.pubpub.org/cscw20
-  title: 'Contributions to the CSCW 2020 Workshop: Collective Organizing and Social
-    Responsibility'
-  authors:
-  - Devansh Saxena
-  - Erhardt Graeff
-  - Shion Guha
-  - EunJeong Cheon
-  - "Pedro Reynolds-Cu\xE9llar"
-  - Dawn Walker
-  - Kenneth R. Fleischmann
-  publisher: Tech Otherwise
-  date: '2020-10-15'
-  link: https://techotherwise.pubpub.org/cscw20
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: url:https://techotherwise.pubpub.org/pdc20
-  title: 'Proceedings of the PDC 2020 Interactive Workshop: Computing Professionals
-    for Social Responsbility: The Past, Present and Future Values of Participatory
-    Design'
-  authors:
-  - Ann Light
-  - Victoria Palacin
-  - Dawn Walker
-  - Christopher Frauenberger
-  - Rachel Charlotte Smith
-  - Syed Ishtiaque Ahmed
-  - "Pedro Reynolds-Cu\xE9llar"
-  - David Nemer
-  publisher: Tech Otherwise
-  date: '2020-05-20'
-  link: https://techotherwise.pubpub.org/pdc20
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: url:http://benchmark-dp.org/caiwipres/
-  title: "Proceedings of the Capability Assessment and Improvement Workshop (CAIW\u2019\
-    2013) at the International Conference on Digital Preservation (IPRES)"
-  authors:
-  - Christoph Becker
-  - A. Caetano
-  publisher: ''
-  date: '2020-01-01'
-  link: http://benchmark-dp.org/
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: url:https://digitalpreservationchallenges.wordpress.com/
-  title: digital preservation challenges
-  authors: []
-  publisher: digital preservation challenges
-  date: '2013-08-24'
-  link: https://digitalpreservationchallenges.wordpress.com/
   type: paper
   plugin: sources.py
   file: sources.yaml
