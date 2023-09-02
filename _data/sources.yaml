@@ -9,6 +9,17 @@
 
 - id: url:https://www.derstandard.at/story/2000114033073/ein-neuer-kompass-fuer-die-digitale-zukunft
   type: article
+  authors:
+    - Christopher Frauenberger
+    - Ann Light
+    - Christoph Becker
+    - Dawn Walker
+    - Curtis McCord
+    - Steve Easterbrook
+    - Lisa Nathan
+    - Irina Shklovski
+    - Elizabeth Patitsas
+  date: '2019-02-01'
 
 - id: url:https://hdl.handle.net/11353/10.429547
   type: paper
