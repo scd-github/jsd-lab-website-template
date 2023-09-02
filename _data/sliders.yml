@@ -2,7 +2,7 @@
   bullets: true
   captions: false
   images:
-    - src: images/karlskronamanifesto.png
+    - src: images/curbcut1.png
       href: https://toronto.curbcut.ca/
     - data-src: images/insolvent.png
       href: insolvent
