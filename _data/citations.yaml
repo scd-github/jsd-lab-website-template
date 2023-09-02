@@ -536,7 +536,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2991/ict4s-16.2016.20
-  title: 'Sustainability Design: Lessons from Designing A "Green Map"'
+  title: 'Sustainability Design: Lessons from Designing A "Green Map" '
   authors:
   - Dawn Walker
   - Christoph Becker
