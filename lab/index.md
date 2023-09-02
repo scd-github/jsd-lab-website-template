@@ -9,7 +9,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Who We Are
 {% include section.html %}
 
-We are faculty members and students of the Faculty of Information at the University of Toronto. The aim of the Just Sustainability Desng lab is to help shift our world on a more sustainable and just course through impactful research and community centered action. A key principle is that each project we engage in has the *potential* to make a real difference to that end, and **some actually do.** 
+We are faculty members and students of the Faculty of Information at the University of Toronto. The aim of the Just Sustainability Design Lab is to help shift our world on a more sustainable and just course through impactful research and community-centered action. A key principle is that each project we engage in has the *potential* to make a real difference to that end, and **some actually do.** 
 
 {% include section.html %}
 
