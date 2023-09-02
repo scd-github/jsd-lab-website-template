@@ -536,7 +536,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2991/ict4s-16.2016.20
-  title: 'Sustainability Design: Lessons from Designing A qGreen Mapq'
+  title: 'Sustainability Design: Lessons from Designing A "Green Map"'
   authors:
   - Dawn Walker
   - Christoph Becker
@@ -760,8 +760,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: url:http://ceur-ws.org/Vol-1686/
-  title: "Lightning talk: \u201CI solemnly pledge\u201D: A manifesto for personal\
-    \ responsibility in the engineering of academic software"
+  title: 'Lightning talk: "I solemnly pledge": A manifesto for personal responsibility
+    in the engineering of academic software'
   authors:
   - Alice Allen
   - Cecilia Aragon
