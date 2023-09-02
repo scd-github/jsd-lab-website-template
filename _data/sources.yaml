@@ -194,6 +194,17 @@
   date: '2016-09-12'
   
 - id: url:http://ceur-ws.org/Vol-1416/
+  title: 'Sustainability debt: A metaphor to support sustainability design decisions'
+  publisher: Proceedings of the 4th International Workshop on Requirements Engineering for Sustainable Systems Co-Located with the 23rd IEEE International Requirements Engineering Conference (RE 2015)
+  authors:
+    - Stefanie Betz
+    - Christoph Becker
+    - Ruzanna Chitchyan
+    - Leticia Duboc
+    - Steve M. Easterbrook
+    - Birgit Penzenstadler
+    - Norbert Seyff
+    - Colin C. Venters
   type: paper
   date: '2015-08-24'
   
