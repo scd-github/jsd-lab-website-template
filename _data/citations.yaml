@@ -95,9 +95,18 @@
   file: sources.yaml
 - id: url:https://www.derstandard.at/story/2000114033073/ein-neuer-kompass-fuer-die-digitale-zukunft
   title: "Ein neuer Kompass f\xFCr die digitale Zukunft"
-  authors: []
+  authors:
+  - Christopher Frauenberger
+  - Ann Light
+  - Christoph Becker
+  - Dawn Walker
+  - Curtis McCord
+  - Steve Easterbrook
+  - Lisa Nathan
+  - Irina Shklovski
+  - Elizabeth Patitsas
   publisher: DER STANDARD
-  date: ''
+  date: '2019-02-01'
   link: https://www.derstandard.at/story/2000114033073/ein-neuer-kompass-fuer-die-digitale-zukunft
   type: article
   plugin: sources.py
