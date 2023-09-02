@@ -720,9 +720,14 @@
   plugin: sources.py
   file: sources.yaml
 - id: url:https://ppig.org/papers/2020-ppig-31st-becker/
-  title: Psychology of Programming Interest Group
-  authors: []
-  publisher: ''
+  title: Undecided? A Board Game to study Intertemporal choices in software projects
+  authors:
+  - Christoph Becker
+  - Tara Tsang
+  - Rachel Booth
+  - Enning Zhang
+  - Fabian Fagerholm
+  publisher: Proceedings of PPIG 2020 The Psychology of Programming IG workshop
   date: '2020-01-01'
   link: https://ppig.org/papers/2020-ppig-31st-becker/
   type: paper
@@ -842,8 +847,11 @@
   plugin: sources.py
   file: sources.yaml
 - id: url:http://benchmark-dp.org/caiwipres/
-  title: benchmark dp
-  authors: []
+  title: "Proceedings of the Capability Assessment and Improvement Workshop (CAIW\u2019\
+    2013) at the International Conference on Digital Preservation (IPRES)"
+  authors:
+  - Christoph Becker
+  - A. Caetano
   publisher: ''
   date: '2020-01-01'
   link: http://benchmark-dp.org/
