@@ -17,6 +17,8 @@ nav:
 - **Power dynamics** across direct and indirect stakeholders with unevenly distributed influence over decisions in systems design
 - **Incommensurability** across different views of the design pace it aims to address and offer a pluralist perspective
 
+JSD is developed throughout the book [Insolvent](/insolvent), which is the best source to get started. 
+
 {% include section.html %}
 
 ## Principles of JSD
