@@ -47,11 +47,9 @@ We are faculty members and students of the Faculty of Information at the Univers
 Please get in touch if you'd like to get involved. We are working on multiple projects this fall and would be very happy to share them with you, and we'd love to hear about your research and interests. 
 
 > ## Prospective PhD Students
-To become a PhD student at the lab, you apply to the Faculty of Information's [PhD program]([url](https://ischool.utoronto.ca/areas-of-study/phd-in-information-studies/)). The Faculty of Information at the University of Toronto offers fully funded PhD student positions to study with Prof. Christoph Becker in the areas of Human Computer Interaction, IT for sustainability, civic tech, CSCW, Computing within Limits, ethical and responsible tech, sustainable software engineering, and related areas. We are looking for outstanding students from all over the world to join our diverse network of passionate scholars in Toronto. The Faculty of Information has a unique, vibrant PhD program that studies the intersection of information, technology, people, and communities. Admissions open in fall on a competitive basis for entry in the following September. Deadline: December. Please review this information before reaching out. 
+To become a PhD student at the lab, you apply to the Faculty of Information's [PhD program]([url](https://ischool.utoronto.ca/areas-of-study/phd-in-information-studies/)). The Faculty of Information at the University of Toronto offers fully funded PhD student positions to study with Prof. Christoph Becker in the areas of Human Computer Interaction, IT for sustainability, civic tech, CSCW, Computing within Limits, ethical and responsible tech, sustainable software engineering, and related areas. We are looking for outstanding students from all over the world to join our diverse network of passionate scholars in Toronto. The Faculty of Information has a unique, vibrant PhD program that studies the intersection of information, technology, people, and communities. Admissions open in fall on a competitive basis for entry in the following September. Deadline: December. Please review this information before reaching out. **When you reach out, make sure to be specific** about your interests and how they align with our current research or past publications.
 
-**When you reach out, make sure to be specific** about your interests and how they align with our current research or past publications.
-
-> ### What the Faculty of Information Offers:
+> ## What the Faculty of Information Offers:
 - Excellent career opportunities in a dynamic international research community
 - A structured PhD program with innovative curriculum
 - Challenging and cutting-edge research projects
